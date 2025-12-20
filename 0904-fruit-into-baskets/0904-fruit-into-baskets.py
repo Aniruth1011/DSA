@@ -1,6 +1,9 @@
 from collections import defaultdict
 class Solution:
     def totalFruit(self, fruits: List[int]) -> int:
+
+        if len(fruits) <=1:
+            return len(fruits)
         l = 0 
         r = 0 
         n = len(fruits)
