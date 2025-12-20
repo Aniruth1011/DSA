@@ -16,8 +16,7 @@ class Solution:
                 numones+=1
             else:
                 numzeros+=1
-            
-            while (numzeros>k):
+            if (numzeros>k):
                 l+=1
                 if nums[l-1] == 1:
                     numones-=1
