@@ -6,13 +6,13 @@ class Solution:
         dic = set()
         l = 0 
         r = 9 
-        ans = []
+        ans = set()
         while (r<n):
             sub = s[l:r+1]
             if sub in dic:
-                ans.append(sub)
+                ans.add(sub)
             else:
                 dic.add(sub)
             l+=1
             r+=1
-        return list(set(ans))
+        return list(ans)
