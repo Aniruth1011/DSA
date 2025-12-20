@@ -6,10 +6,10 @@ class Solution:
                 return [nums]
         li = []
         nums = sorted(nums)
-        for i in range(n):
+        for i in range(n-3):
             e1 = nums[i]
             rem_sum1 = target - e1
-            for j in range(i+1 , n):
+            for j in range(i+1 , n-2):
                 e2 = nums[j]
                 if i == j:
                     continue
