@@ -1,6 +1,9 @@
 class Solution:
     def fourSum(self, nums: List[int], target: int) -> List[List[int]]:
         n = len(nums)
+        if n==4:
+            if sum(nums) == target:
+                return [nums]
         li = []
         nums = sorted(nums)
         for i in range(n):
@@ -25,7 +28,6 @@ class Solution:
                         if (i==j) or (i ==l) or (i ==r) or (j == l) or (j == r) or (l ==r):
                             continue
                         else:
-                            print([e1 , e2 , e3 , e4]) 
                             if [e1 , e2 , e3 , e4] not in li:
                                 li.append([e1 , e2 , e3 , e4])
                             l+=1
