@@ -7,9 +7,13 @@ class Solution:
         li = []
         nums = sorted(nums)
         for i in range(n-3):
+            if i>0 and nums[i] == nums[i-1]:
+                continue 
             e1 = nums[i]
             rem_sum1 = target - e1
             for j in range(i+1 , n-2):
+                if j > i+1 and nums[j] == nums[j-1]:
+                    continue
                 e2 = nums[j]
                 if i == j:
                     continue
@@ -25,12 +29,12 @@ class Solution:
                     elif s<rem_sum2:
                         l+=1 
                     else:
-                        if (i==j) or (i ==l) or (i ==r) or (j == l) or (j == r) or (l ==r):
-                            continue
-                        else:
-                            if [e1 , e2 , e3 , e4] not in li:
-                                li.append([e1 , e2 , e3 , e4])
+                        li.append([e1 , e2 , e3 , e4])
+                        l+=1
+                        r-=1
+                        while (l<r) and (nums[l] == nums[l-1]):
                             l+=1
+                        while (l<r) and (nums[r] == nums[r+1]):
                             r-=1
         return li
         
