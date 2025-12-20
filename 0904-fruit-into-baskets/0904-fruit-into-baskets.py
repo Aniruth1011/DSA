@@ -1,12 +1,11 @@
 from collections import defaultdict
 class Solution:
     def totalFruit(self, fruits: List[int]) -> int:
-
-        if len(fruits) <=1:
-            return len(fruits)
+        n = len(fruits)
+        if n <=1:
+            return n
         l = 0 
         r = 0 
-        n = len(fruits)
         types = defaultdict(int)
         maxlen = 0
         while (r < n):
