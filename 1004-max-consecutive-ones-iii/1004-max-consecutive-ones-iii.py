@@ -17,13 +17,11 @@ class Solution:
             else:
                 numzeros+=1
             if (numzeros>k):
-                l+=1
-                if nums[l-1] == 1:
-                    numones-=1
-                else:
+                if nums[l] == 0:
                     numzeros-=1
+                l+=1
             maxlen = max(maxlen , r-l+1)
-            print(l , r , maxlen , numzeros , numones)
+            #print(l , r , maxlen , numzeros , numones)
             r+=1
         
         return maxlen
