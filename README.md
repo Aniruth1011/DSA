@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0041-first-missing-positive](https://github.com/Aniruth1011/DSA/tree/master/0041-first-missing-positive) |
 | [0048-rotate-image](https://github.com/Aniruth1011/DSA/tree/master/0048-rotate-image) |
 | [0051-n-queens](https://github.com/Aniruth1011/DSA/tree/master/0051-n-queens) |
+| [0075-sort-colors](https://github.com/Aniruth1011/DSA/tree/master/0075-sort-colors) |
 | [0209-minimum-size-subarray-sum](https://github.com/Aniruth1011/DSA/tree/master/0209-minimum-size-subarray-sum) |
 | [0219-contains-duplicate-ii](https://github.com/Aniruth1011/DSA/tree/master/0219-contains-duplicate-ii) |
 | [0904-fruit-into-baskets](https://github.com/Aniruth1011/DSA/tree/master/0904-fruit-into-baskets) |
@@ -59,11 +60,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0016-3sum-closest](https://github.com/Aniruth1011/DSA/tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/Aniruth1011/DSA/tree/master/0018-4sum) |
 | [0031-next-permutation](https://github.com/Aniruth1011/DSA/tree/master/0031-next-permutation) |
+| [0075-sort-colors](https://github.com/Aniruth1011/DSA/tree/master/0075-sort-colors) |
 ## Sorting
 |  |
 | ------- |
 | [0016-3sum-closest](https://github.com/Aniruth1011/DSA/tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/Aniruth1011/DSA/tree/master/0018-4sum) |
+| [0075-sort-colors](https://github.com/Aniruth1011/DSA/tree/master/0075-sort-colors) |
 ## Bit Manipulation
 |  |
 | ------- |
