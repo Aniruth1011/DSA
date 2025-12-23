@@ -6,20 +6,22 @@
 #         self.right = right
 class Solution:
     def isSymmetric(self, root: Optional[TreeNode]) -> bool:
-
-        def mirror(left , right):
-
-            if (left is None ) and right is not None:
-                return False 
-            
-            if (right is None) and (left is not None):
-                return False 
-            
-            if (left is None) and (right is None):
-                return True 
-            return (left.val == right.val) and mirror(left.left , right.right) and mirror(left.right ,  right.left)
-
-            return True 
-        if not root:
+        if root is None:
             return True
-        return mirror(root.left , root.right)
+        def symmetric(left , right):
+
+            if left is None and right is None:
+                return True 
+            
+            if ( left is None ) and (right is not None):
+                return False 
+            
+            if left is not None and right is None:
+                return False 
+            
+            if (left.val!=right.val):
+                return False 
+            
+            return symmetric(left.left , right.right) and symmetric(left.right , right.left) 
+        
+        return symmetric(root.left , root.right)
