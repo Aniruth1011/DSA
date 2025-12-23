@@ -11,11 +11,11 @@ class Solution:
 
             if not preorder or not inorder:
                 return None
-
+            dic = {val : idx for idx , val in enumerate(inorder)}
             root = preorder[0]
             Node = TreeNode(root)
 
-            root_index = inorder.index(root)
+            root_index = dic[root]
 
             left_inorder = inorder[:root_index]
             right_inorder = inorder[root_index+1:] 
