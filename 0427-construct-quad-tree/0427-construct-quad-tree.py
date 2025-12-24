@@ -12,20 +12,33 @@ class Node:
 
 class Solution:
     def construct(self, grid: List[List[int]]) -> 'Node':
-
-        if all(x == 0 for row in grid for x in row):
-            return Node(0 , True , None , None , None , None)
-        elif all(x == 1 for row in grid for x in row):
-            return Node(1 , True , None , None , None , None)  
-        else:
-            #Recursive case 
-            isleaf = False 
-            val = 1 #Arbitrarily selected 
-            n = len(grid)
-            topleft = self.construct([row[:n//2] for row in grid[:n//2]]) 
-            topright = self.construct([row[n//2:] for row in grid[:n//2]]) 
-            bottomleft = self.construct([row[:n//2] for row in grid[n//2:]]) 
-            bottomright = self.construct([row[n//2:] for row in grid[n//2:]]) 
-
-            return Node(val , isleaf , topleft , topright , bottomleft , bottomright)
+        n = len(grid)
+        prefix_sum = [[0 for i in range(n+1)] for j in range(n+1)]
+        for i in range(n):
+            for j in range(n):
+                prefix_sum[i+1][j+1] = int(grid[i][j]) + prefix_sum[i+1][j] + prefix_sum[i][j+1] - prefix_sum[i][j]
         
+        def get_prefix_sum(r1 , c1 , r2 , c2):
+            return prefix_sum[r2][c2] - prefix_sum[r2 ][c1] - prefix_sum[r1][c2] + prefix_sum[r1][c1]
+            
+        def build(r1 , c1 , r2 , c2):
+            if get_prefix_sum(r1 , c1, r2 , c2) == 0:
+                return Node(0 , True , None , None , None , None)
+            elif get_prefix_sum(r1 , c1, r2 , c2) == (r2-r1)**2:
+                return Node(1 , True , None , None , None , None)  
+            else:
+                #Recursive case 
+                isleaf = False 
+                val = 1 #Arbitrarily selected 
+                n = len(grid)
+                width = r2 - r1
+                mid_r = r1 + width//2 
+                mid_c = c1 + width//2 
+                topleft = build(r1 , c1 , mid_r , mid_c)
+                topright = build(r1, mid_c, mid_r, c2 )
+                bottomleft = build(mid_r , c1 , r2 , mid_c )
+                bottomright = build(mid_r, mid_c, r2, c2)
+            
+                return Node(val , isleaf , topleft , topright , bottomleft , bottomright)
+        
+        return build(0 , 0 , len(grid) , len(grid))
