@@ -7,14 +7,14 @@
 class Solution:
     def sortedArrayToBST(self, nums: List[int]) -> Optional[TreeNode]:
 
-        def convert(nums):
-            if len(nums) == 0:
+        def convert(left , right):
+            if (left > right):
                 return None 
-
-            root = TreeNode(nums[len(nums)//2] )
-            root.left = convert(nums[:len(nums)//2])
-            root.right = convert(nums[len(nums)//2 + 1 : ])
+            
+            root = TreeNode(nums[(left+right)//2])
+            root.left = convert(left , (left+right)//2 - 1)
+            root.right = convert((left+right)//2 + 1 , right)
 
             return root 
         
-        return convert(nums)
+        return convert(0 , len(nums))
