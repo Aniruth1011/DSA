@@ -29,5 +29,6 @@ class Solution:
                     second = inorder_list[i+1]
                 else:
                     second = inorder_list[i+1]
+                    break
         
         first.val , second.val = second.val , first.val
