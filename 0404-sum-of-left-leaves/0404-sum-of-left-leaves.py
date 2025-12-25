@@ -18,4 +18,4 @@ class Solution:
             
             return leftsum(node.left , "l") + leftsum(node.right , "r")
         
-        return leftsum(root.left , "l") + leftsum(root.right , "r")
+        return  leftsum(root , "r")
