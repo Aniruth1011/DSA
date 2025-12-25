@@ -19,14 +19,7 @@ class Solution:
         
         subtreesum(root)
 
-        max_count = float('-inf')
-        res = []
-        for key , value in memo.items():
-            if value > max_count:
-                max_count = value 
-        
-        for i in range(len(memo.keys())):
-            if list(memo.values())[i] == max_count:
-                res.append(list(memo.keys())[i])
+        max_count = max(memo.values(), default=0)
+        res = [key for key, value in memo.items() if value == max_count]
         
         return res
