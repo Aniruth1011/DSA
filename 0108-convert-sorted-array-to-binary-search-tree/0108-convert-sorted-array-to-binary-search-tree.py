@@ -17,4 +17,4 @@ class Solution:
 
             return root 
         
-        return convert(0 , len(nums))
+        return convert(0 , len(nums)-1)
