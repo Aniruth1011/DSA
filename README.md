@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/Aniruth1011/DSA/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0187-repeated-dna-sequences](https://github.com/Aniruth1011/DSA/tree/master/0187-repeated-dna-sequences) |
 | [0219-contains-duplicate-ii](https://github.com/Aniruth1011/DSA/tree/master/0219-contains-duplicate-ii) |
+| [0508-most-frequent-subtree-sum](https://github.com/Aniruth1011/DSA/tree/master/0508-most-frequent-subtree-sum) |
 | [0904-fruit-into-baskets](https://github.com/Aniruth1011/DSA/tree/master/0904-fruit-into-baskets) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Aniruth1011/DSA/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 ## String
@@ -142,6 +143,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0404-sum-of-left-leaves](https://github.com/Aniruth1011/DSA/tree/master/0404-sum-of-left-leaves) |
 | [0427-construct-quad-tree](https://github.com/Aniruth1011/DSA/tree/master/0427-construct-quad-tree) |
 | [0450-delete-node-in-a-bst](https://github.com/Aniruth1011/DSA/tree/master/0450-delete-node-in-a-bst) |
+| [0508-most-frequent-subtree-sum](https://github.com/Aniruth1011/DSA/tree/master/0508-most-frequent-subtree-sum) |
 | [0543-diameter-of-binary-tree](https://github.com/Aniruth1011/DSA/tree/master/0543-diameter-of-binary-tree) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/Aniruth1011/DSA/tree/master/0701-insert-into-a-binary-search-tree) |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/Aniruth1011/DSA/tree/master/1448-count-good-nodes-in-binary-tree) |
@@ -166,6 +168,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Aniruth1011/DSA/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Aniruth1011/DSA/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0404-sum-of-left-leaves](https://github.com/Aniruth1011/DSA/tree/master/0404-sum-of-left-leaves) |
+| [0508-most-frequent-subtree-sum](https://github.com/Aniruth1011/DSA/tree/master/0508-most-frequent-subtree-sum) |
 | [0543-diameter-of-binary-tree](https://github.com/Aniruth1011/DSA/tree/master/0543-diameter-of-binary-tree) |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/Aniruth1011/DSA/tree/master/1448-count-good-nodes-in-binary-tree) |
 ## Binary Tree
@@ -199,6 +202,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Aniruth1011/DSA/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0404-sum-of-left-leaves](https://github.com/Aniruth1011/DSA/tree/master/0404-sum-of-left-leaves) |
 | [0450-delete-node-in-a-bst](https://github.com/Aniruth1011/DSA/tree/master/0450-delete-node-in-a-bst) |
+| [0508-most-frequent-subtree-sum](https://github.com/Aniruth1011/DSA/tree/master/0508-most-frequent-subtree-sum) |
 | [0543-diameter-of-binary-tree](https://github.com/Aniruth1011/DSA/tree/master/0543-diameter-of-binary-tree) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/Aniruth1011/DSA/tree/master/0701-insert-into-a-binary-search-tree) |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/Aniruth1011/DSA/tree/master/1448-count-good-nodes-in-binary-tree) |
