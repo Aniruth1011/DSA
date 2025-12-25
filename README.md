@@ -102,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0051-n-queens](https://github.com/Aniruth1011/DSA/tree/master/0051-n-queens) |
+| [0095-unique-binary-search-trees-ii](https://github.com/Aniruth1011/DSA/tree/master/0095-unique-binary-search-trees-ii) |
 ## Stack
 |  |
 | ------- |
@@ -112,6 +113,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/Aniruth1011/DSA/tree/master/0094-binary-tree-inorder-traversal) |
+| [0095-unique-binary-search-trees-ii](https://github.com/Aniruth1011/DSA/tree/master/0095-unique-binary-search-trees-ii) |
 | [0098-validate-binary-search-tree](https://github.com/Aniruth1011/DSA/tree/master/0098-validate-binary-search-tree) |
 | [0099-recover-binary-search-tree](https://github.com/Aniruth1011/DSA/tree/master/0099-recover-binary-search-tree) |
 | [0100-same-tree](https://github.com/Aniruth1011/DSA/tree/master/0100-same-tree) |
@@ -164,6 +166,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/Aniruth1011/DSA/tree/master/0094-binary-tree-inorder-traversal) |
+| [0095-unique-binary-search-trees-ii](https://github.com/Aniruth1011/DSA/tree/master/0095-unique-binary-search-trees-ii) |
 | [0098-validate-binary-search-tree](https://github.com/Aniruth1011/DSA/tree/master/0098-validate-binary-search-tree) |
 | [0099-recover-binary-search-tree](https://github.com/Aniruth1011/DSA/tree/master/0099-recover-binary-search-tree) |
 | [0100-same-tree](https://github.com/Aniruth1011/DSA/tree/master/0100-same-tree) |
@@ -216,6 +219,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search Tree
 |  |
 | ------- |
+| [0095-unique-binary-search-trees-ii](https://github.com/Aniruth1011/DSA/tree/master/0095-unique-binary-search-trees-ii) |
 | [0098-validate-binary-search-tree](https://github.com/Aniruth1011/DSA/tree/master/0098-validate-binary-search-tree) |
 | [0099-recover-binary-search-tree](https://github.com/Aniruth1011/DSA/tree/master/0099-recover-binary-search-tree) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Aniruth1011/DSA/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
@@ -227,4 +231,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/Aniruth1011/DSA/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0095-unique-binary-search-trees-ii](https://github.com/Aniruth1011/DSA/tree/master/0095-unique-binary-search-trees-ii) |
 <!---LeetCode Topics End-->
