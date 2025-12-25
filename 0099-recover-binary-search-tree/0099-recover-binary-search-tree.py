@@ -9,9 +9,7 @@ class Solution:
         """
         Do not return anything, modify root in-place instead.
         """
-
         inorder_list = []
-
         def inorder(root):
             if root is None:
                 return 
@@ -21,13 +19,15 @@ class Solution:
             inorder(root.right)
         
         inorder(root)
+
         first = None 
         second = None
-        for i in range(len(inorder_list)-1):
+        for i in range(0 , len(inorder_list) - 1):
             if inorder_list[i].val > inorder_list[i+1].val:
                 if not first:
                     first = inorder_list[i]
-                second = inorder_list[i+1] 
-
-        first.val, second.val = second.val , first.val 
-                            
+                    second = inorder_list[i+1]
+                else:
+                    second = inorder_list[i+1]
+        
+        first.val , second.val = second.val , first.val
