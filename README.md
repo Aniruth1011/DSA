@@ -87,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1337-the-k-weakest-rows-in-a-matrix](https://github.com/Aniruth1011/DSA/tree/master/1337-the-k-weakest-rows-in-a-matrix) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Aniruth1011/DSA/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [2099-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/Aniruth1011/DSA/tree/master/2099-find-subsequence-of-length-k-with-the-largest-sum) |
+| [2231-largest-number-after-digit-swaps-by-parity](https://github.com/Aniruth1011/DSA/tree/master/2231-largest-number-after-digit-swaps-by-parity) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -278,4 +279,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1337-the-k-weakest-rows-in-a-matrix](https://github.com/Aniruth1011/DSA/tree/master/1337-the-k-weakest-rows-in-a-matrix) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Aniruth1011/DSA/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [2099-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/Aniruth1011/DSA/tree/master/2099-find-subsequence-of-length-k-with-the-largest-sum) |
+| [2231-largest-number-after-digit-swaps-by-parity](https://github.com/Aniruth1011/DSA/tree/master/2231-largest-number-after-digit-swaps-by-parity) |
 <!---LeetCode Topics End-->
