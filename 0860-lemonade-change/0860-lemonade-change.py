@@ -2,8 +2,6 @@ class Solution:
     def lemonadeChange(self, bills: List[int]) -> bool:
         num_five = 0 
         num_ten = 0 
-        num_twenty = 0 
-
         for i in bills:
             if i == 5:
                 num_five+=1
