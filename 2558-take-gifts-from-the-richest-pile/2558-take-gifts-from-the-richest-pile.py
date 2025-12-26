@@ -9,5 +9,8 @@ class Solution:
 
             sqrt = int((-val) ** 0.5)
             heapq.heappush(neg_gifts , -sqrt)
+
+            if not neg_gifts:
+                break
         
         return -sum(neg_gifts)
