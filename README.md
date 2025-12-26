@@ -58,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2099-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/Aniruth1011/DSA/tree/master/2099-find-subsequence-of-length-k-with-the-largest-sum) |
 | [2335-minimum-amount-of-time-to-fill-cups](https://github.com/Aniruth1011/DSA/tree/master/2335-minimum-amount-of-time-to-fill-cups) |
 | [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/Aniruth1011/DSA/tree/master/2357-make-array-zero-by-subtracting-equal-amounts) |
+| [2500-delete-greatest-value-in-each-row](https://github.com/Aniruth1011/DSA/tree/master/2500-delete-greatest-value-in-each-row) |
 ## Binary Search
 |  |
 | ------- |
@@ -93,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2231-largest-number-after-digit-swaps-by-parity](https://github.com/Aniruth1011/DSA/tree/master/2231-largest-number-after-digit-swaps-by-parity) |
 | [2335-minimum-amount-of-time-to-fill-cups](https://github.com/Aniruth1011/DSA/tree/master/2335-minimum-amount-of-time-to-fill-cups) |
 | [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/Aniruth1011/DSA/tree/master/2357-make-array-zero-by-subtracting-equal-amounts) |
+| [2500-delete-greatest-value-in-each-row](https://github.com/Aniruth1011/DSA/tree/master/2500-delete-greatest-value-in-each-row) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -117,6 +119,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/Aniruth1011/DSA/tree/master/0048-rotate-image) |
 | [0427-construct-quad-tree](https://github.com/Aniruth1011/DSA/tree/master/0427-construct-quad-tree) |
 | [1337-the-k-weakest-rows-in-a-matrix](https://github.com/Aniruth1011/DSA/tree/master/1337-the-k-weakest-rows-in-a-matrix) |
+| [2500-delete-greatest-value-in-each-row](https://github.com/Aniruth1011/DSA/tree/master/2500-delete-greatest-value-in-each-row) |
 ## Backtracking
 |  |
 | ------- |
@@ -287,6 +290,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2231-largest-number-after-digit-swaps-by-parity](https://github.com/Aniruth1011/DSA/tree/master/2231-largest-number-after-digit-swaps-by-parity) |
 | [2335-minimum-amount-of-time-to-fill-cups](https://github.com/Aniruth1011/DSA/tree/master/2335-minimum-amount-of-time-to-fill-cups) |
 | [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/Aniruth1011/DSA/tree/master/2357-make-array-zero-by-subtracting-equal-amounts) |
+| [2500-delete-greatest-value-in-each-row](https://github.com/Aniruth1011/DSA/tree/master/2500-delete-greatest-value-in-each-row) |
 ## Greedy
 |  |
 | ------- |
@@ -296,4 +300,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/Aniruth1011/DSA/tree/master/2357-make-array-zero-by-subtracting-equal-amounts) |
+| [2500-delete-greatest-value-in-each-row](https://github.com/Aniruth1011/DSA/tree/master/2500-delete-greatest-value-in-each-row) |
 <!---LeetCode Topics End-->
