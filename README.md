@@ -59,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2335-minimum-amount-of-time-to-fill-cups](https://github.com/Aniruth1011/DSA/tree/master/2335-minimum-amount-of-time-to-fill-cups) |
 | [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/Aniruth1011/DSA/tree/master/2357-make-array-zero-by-subtracting-equal-amounts) |
 | [2500-delete-greatest-value-in-each-row](https://github.com/Aniruth1011/DSA/tree/master/2500-delete-greatest-value-in-each-row) |
+| [2558-take-gifts-from-the-richest-pile](https://github.com/Aniruth1011/DSA/tree/master/2558-take-gifts-from-the-richest-pile) |
 ## Binary Search
 |  |
 | ------- |
@@ -291,6 +292,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2335-minimum-amount-of-time-to-fill-cups](https://github.com/Aniruth1011/DSA/tree/master/2335-minimum-amount-of-time-to-fill-cups) |
 | [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/Aniruth1011/DSA/tree/master/2357-make-array-zero-by-subtracting-equal-amounts) |
 | [2500-delete-greatest-value-in-each-row](https://github.com/Aniruth1011/DSA/tree/master/2500-delete-greatest-value-in-each-row) |
+| [2558-take-gifts-from-the-richest-pile](https://github.com/Aniruth1011/DSA/tree/master/2558-take-gifts-from-the-richest-pile) |
 ## Greedy
 |  |
 | ------- |
@@ -301,4 +303,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/Aniruth1011/DSA/tree/master/2357-make-array-zero-by-subtracting-equal-amounts) |
 | [2500-delete-greatest-value-in-each-row](https://github.com/Aniruth1011/DSA/tree/master/2500-delete-greatest-value-in-each-row) |
+| [2558-take-gifts-from-the-richest-pile](https://github.com/Aniruth1011/DSA/tree/master/2558-take-gifts-from-the-richest-pile) |
 <!---LeetCode Topics End-->
