@@ -156,6 +156,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0973-k-closest-points-to-origin](https://github.com/Aniruth1011/DSA/tree/master/0973-k-closest-points-to-origin) |
 | [0976-largest-perimeter-triangle](https://github.com/Aniruth1011/DSA/tree/master/0976-largest-perimeter-triangle) |
 | [1323-maximum-69-number](https://github.com/Aniruth1011/DSA/tree/master/1323-maximum-69-number) |
+| [2591-distribute-money-to-maximum-children](https://github.com/Aniruth1011/DSA/tree/master/2591-distribute-money-to-maximum-children) |
 | [3264-final-array-state-after-k-multiplication-operations-i](https://github.com/Aniruth1011/DSA/tree/master/3264-final-array-state-after-k-multiplication-operations-i) |
 ## Matrix
 |  |
@@ -368,6 +369,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1736-latest-time-by-replacing-hidden-digits](https://github.com/Aniruth1011/DSA/tree/master/1736-latest-time-by-replacing-hidden-digits) |
 | [2335-minimum-amount-of-time-to-fill-cups](https://github.com/Aniruth1011/DSA/tree/master/2335-minimum-amount-of-time-to-fill-cups) |
 | [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/Aniruth1011/DSA/tree/master/2357-make-array-zero-by-subtracting-equal-amounts) |
+| [2591-distribute-money-to-maximum-children](https://github.com/Aniruth1011/DSA/tree/master/2591-distribute-money-to-maximum-children) |
 ## Simulation
 |  |
 | ------- |
