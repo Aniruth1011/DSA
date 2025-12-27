@@ -8,6 +8,6 @@ class Solution:
             a , b , c = nums[i-2] , nums[i-1] , nums[i]
             if (a+b > c) and (b+c > a) and (c+a>b):
                 per = a+b+c
-                max_per = max(max_per , per)
+                return per
         
         return max_per
