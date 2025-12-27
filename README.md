@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0942-di-string-match](https://github.com/Aniruth1011/DSA/tree/master/0942-di-string-match) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Aniruth1011/DSA/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1405-longest-happy-string](https://github.com/Aniruth1011/DSA/tree/master/1405-longest-happy-string) |
+| [1736-latest-time-by-replacing-hidden-digits](https://github.com/Aniruth1011/DSA/tree/master/1736-latest-time-by-replacing-hidden-digits) |
 ## Sliding Window
 |  |
 | ------- |
@@ -364,6 +365,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1323-maximum-69-number](https://github.com/Aniruth1011/DSA/tree/master/1323-maximum-69-number) |
 | [1405-longest-happy-string](https://github.com/Aniruth1011/DSA/tree/master/1405-longest-happy-string) |
 | [1710-maximum-units-on-a-truck](https://github.com/Aniruth1011/DSA/tree/master/1710-maximum-units-on-a-truck) |
+| [1736-latest-time-by-replacing-hidden-digits](https://github.com/Aniruth1011/DSA/tree/master/1736-latest-time-by-replacing-hidden-digits) |
 | [2335-minimum-amount-of-time-to-fill-cups](https://github.com/Aniruth1011/DSA/tree/master/2335-minimum-amount-of-time-to-fill-cups) |
 | [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/Aniruth1011/DSA/tree/master/2357-make-array-zero-by-subtracting-equal-amounts) |
 ## Simulation
