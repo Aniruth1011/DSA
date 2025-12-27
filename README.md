@@ -51,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0041-first-missing-positive](https://github.com/Aniruth1011/DSA/tree/master/0041-first-missing-positive) |
 | [0048-rotate-image](https://github.com/Aniruth1011/DSA/tree/master/0048-rotate-image) |
 | [0051-n-queens](https://github.com/Aniruth1011/DSA/tree/master/0051-n-queens) |
+| [0055-jump-game](https://github.com/Aniruth1011/DSA/tree/master/0055-jump-game) |
 | [0075-sort-colors](https://github.com/Aniruth1011/DSA/tree/master/0075-sort-colors) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Aniruth1011/DSA/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/Aniruth1011/DSA/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
@@ -330,6 +331,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0055-jump-game](https://github.com/Aniruth1011/DSA/tree/master/0055-jump-game) |
 | [0095-unique-binary-search-trees-ii](https://github.com/Aniruth1011/DSA/tree/master/0095-unique-binary-search-trees-ii) |
 | [0096-unique-binary-search-trees](https://github.com/Aniruth1011/DSA/tree/master/0096-unique-binary-search-trees) |
 ## Heap (Priority Queue)
@@ -356,6 +358,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0055-jump-game](https://github.com/Aniruth1011/DSA/tree/master/0055-jump-game) |
 | [0409-longest-palindrome](https://github.com/Aniruth1011/DSA/tree/master/0409-longest-palindrome) |
 | [0455-assign-cookies](https://github.com/Aniruth1011/DSA/tree/master/0455-assign-cookies) |
 | [0561-array-partition](https://github.com/Aniruth1011/DSA/tree/master/0561-array-partition) |
