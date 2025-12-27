@@ -67,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0904-fruit-into-baskets](https://github.com/Aniruth1011/DSA/tree/master/0904-fruit-into-baskets) |
 | [0942-di-string-match](https://github.com/Aniruth1011/DSA/tree/master/0942-di-string-match) |
 | [0973-k-closest-points-to-origin](https://github.com/Aniruth1011/DSA/tree/master/0973-k-closest-points-to-origin) |
+| [0976-largest-perimeter-triangle](https://github.com/Aniruth1011/DSA/tree/master/0976-largest-perimeter-triangle) |
 | [1004-max-consecutive-ones-iii](https://github.com/Aniruth1011/DSA/tree/master/1004-max-consecutive-ones-iii) |
 | [1094-car-pooling](https://github.com/Aniruth1011/DSA/tree/master/1094-car-pooling) |
 | [1337-the-k-weakest-rows-in-a-matrix](https://github.com/Aniruth1011/DSA/tree/master/1337-the-k-weakest-rows-in-a-matrix) |
@@ -117,6 +118,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0561-array-partition](https://github.com/Aniruth1011/DSA/tree/master/0561-array-partition) |
 | [0767-reorganize-string](https://github.com/Aniruth1011/DSA/tree/master/0767-reorganize-string) |
 | [0973-k-closest-points-to-origin](https://github.com/Aniruth1011/DSA/tree/master/0973-k-closest-points-to-origin) |
+| [0976-largest-perimeter-triangle](https://github.com/Aniruth1011/DSA/tree/master/0976-largest-perimeter-triangle) |
 | [1094-car-pooling](https://github.com/Aniruth1011/DSA/tree/master/1094-car-pooling) |
 | [1337-the-k-weakest-rows-in-a-matrix](https://github.com/Aniruth1011/DSA/tree/master/1337-the-k-weakest-rows-in-a-matrix) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Aniruth1011/DSA/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
@@ -146,6 +148,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/Aniruth1011/DSA/tree/master/0048-rotate-image) |
 | [0096-unique-binary-search-trees](https://github.com/Aniruth1011/DSA/tree/master/0096-unique-binary-search-trees) |
 | [0973-k-closest-points-to-origin](https://github.com/Aniruth1011/DSA/tree/master/0973-k-closest-points-to-origin) |
+| [0976-largest-perimeter-triangle](https://github.com/Aniruth1011/DSA/tree/master/0976-largest-perimeter-triangle) |
 | [3264-final-array-state-after-k-multiplication-operations-i](https://github.com/Aniruth1011/DSA/tree/master/3264-final-array-state-after-k-multiplication-operations-i) |
 ## Matrix
 |  |
@@ -349,6 +352,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0767-reorganize-string](https://github.com/Aniruth1011/DSA/tree/master/0767-reorganize-string) |
 | [0860-lemonade-change](https://github.com/Aniruth1011/DSA/tree/master/0860-lemonade-change) |
 | [0942-di-string-match](https://github.com/Aniruth1011/DSA/tree/master/0942-di-string-match) |
+| [0976-largest-perimeter-triangle](https://github.com/Aniruth1011/DSA/tree/master/0976-largest-perimeter-triangle) |
 | [1405-longest-happy-string](https://github.com/Aniruth1011/DSA/tree/master/1405-longest-happy-string) |
 | [2335-minimum-amount-of-time-to-fill-cups](https://github.com/Aniruth1011/DSA/tree/master/2335-minimum-amount-of-time-to-fill-cups) |
 | [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/Aniruth1011/DSA/tree/master/2357-make-array-zero-by-subtracting-equal-amounts) |
