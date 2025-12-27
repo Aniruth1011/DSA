@@ -70,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0976-largest-perimeter-triangle](https://github.com/Aniruth1011/DSA/tree/master/0976-largest-perimeter-triangle) |
 | [1004-max-consecutive-ones-iii](https://github.com/Aniruth1011/DSA/tree/master/1004-max-consecutive-ones-iii) |
 | [1005-maximize-sum-of-array-after-k-negations](https://github.com/Aniruth1011/DSA/tree/master/1005-maximize-sum-of-array-after-k-negations) |
+| [1013-partition-array-into-three-parts-with-equal-sum](https://github.com/Aniruth1011/DSA/tree/master/1013-partition-array-into-three-parts-with-equal-sum) |
 | [1094-car-pooling](https://github.com/Aniruth1011/DSA/tree/master/1094-car-pooling) |
 | [1337-the-k-weakest-rows-in-a-matrix](https://github.com/Aniruth1011/DSA/tree/master/1337-the-k-weakest-rows-in-a-matrix) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Aniruth1011/DSA/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
@@ -356,6 +357,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0942-di-string-match](https://github.com/Aniruth1011/DSA/tree/master/0942-di-string-match) |
 | [0976-largest-perimeter-triangle](https://github.com/Aniruth1011/DSA/tree/master/0976-largest-perimeter-triangle) |
 | [1005-maximize-sum-of-array-after-k-negations](https://github.com/Aniruth1011/DSA/tree/master/1005-maximize-sum-of-array-after-k-negations) |
+| [1013-partition-array-into-three-parts-with-equal-sum](https://github.com/Aniruth1011/DSA/tree/master/1013-partition-array-into-three-parts-with-equal-sum) |
 | [1405-longest-happy-string](https://github.com/Aniruth1011/DSA/tree/master/1405-longest-happy-string) |
 | [2335-minimum-amount-of-time-to-fill-cups](https://github.com/Aniruth1011/DSA/tree/master/2335-minimum-amount-of-time-to-fill-cups) |
 | [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/Aniruth1011/DSA/tree/master/2357-make-array-zero-by-subtracting-equal-amounts) |
