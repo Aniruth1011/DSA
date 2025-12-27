@@ -84,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2558-take-gifts-from-the-richest-pile](https://github.com/Aniruth1011/DSA/tree/master/2558-take-gifts-from-the-richest-pile) |
 | [2706-buy-two-chocolates](https://github.com/Aniruth1011/DSA/tree/master/2706-buy-two-chocolates) |
 | [2974-minimum-number-game](https://github.com/Aniruth1011/DSA/tree/master/2974-minimum-number-game) |
+| [3074-apple-redistribution-into-boxes](https://github.com/Aniruth1011/DSA/tree/master/3074-apple-redistribution-into-boxes) |
 | [3264-final-array-state-after-k-multiplication-operations-i](https://github.com/Aniruth1011/DSA/tree/master/3264-final-array-state-after-k-multiplication-operations-i) |
 ## Binary Search
 |  |
@@ -137,6 +138,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2500-delete-greatest-value-in-each-row](https://github.com/Aniruth1011/DSA/tree/master/2500-delete-greatest-value-in-each-row) |
 | [2706-buy-two-chocolates](https://github.com/Aniruth1011/DSA/tree/master/2706-buy-two-chocolates) |
 | [2974-minimum-number-game](https://github.com/Aniruth1011/DSA/tree/master/2974-minimum-number-game) |
+| [3074-apple-redistribution-into-boxes](https://github.com/Aniruth1011/DSA/tree/master/3074-apple-redistribution-into-boxes) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -373,6 +375,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/Aniruth1011/DSA/tree/master/2357-make-array-zero-by-subtracting-equal-amounts) |
 | [2591-distribute-money-to-maximum-children](https://github.com/Aniruth1011/DSA/tree/master/2591-distribute-money-to-maximum-children) |
 | [2706-buy-two-chocolates](https://github.com/Aniruth1011/DSA/tree/master/2706-buy-two-chocolates) |
+| [3074-apple-redistribution-into-boxes](https://github.com/Aniruth1011/DSA/tree/master/3074-apple-redistribution-into-boxes) |
 ## Simulation
 |  |
 | ------- |
