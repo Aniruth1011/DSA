@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Aniruth1011/DSA/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Aniruth1011/DSA/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0022-generate-parentheses](https://github.com/Aniruth1011/DSA/tree/master/0022-generate-parentheses) |
 | [0187-repeated-dna-sequences](https://github.com/Aniruth1011/DSA/tree/master/0187-repeated-dna-sequences) |
 | [0257-binary-tree-paths](https://github.com/Aniruth1011/DSA/tree/master/0257-binary-tree-paths) |
 | [0409-longest-palindrome](https://github.com/Aniruth1011/DSA/tree/master/0409-longest-palindrome) |
@@ -186,6 +187,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Aniruth1011/DSA/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0022-generate-parentheses](https://github.com/Aniruth1011/DSA/tree/master/0022-generate-parentheses) |
 | [0051-n-queens](https://github.com/Aniruth1011/DSA/tree/master/0051-n-queens) |
 | [0095-unique-binary-search-trees-ii](https://github.com/Aniruth1011/DSA/tree/master/0095-unique-binary-search-trees-ii) |
 | [0113-path-sum-ii](https://github.com/Aniruth1011/DSA/tree/master/0113-path-sum-ii) |
@@ -349,6 +351,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/Aniruth1011/DSA/tree/master/0022-generate-parentheses) |
 | [0055-jump-game](https://github.com/Aniruth1011/DSA/tree/master/0055-jump-game) |
 | [0095-unique-binary-search-trees-ii](https://github.com/Aniruth1011/DSA/tree/master/0095-unique-binary-search-trees-ii) |
 | [0096-unique-binary-search-trees](https://github.com/Aniruth1011/DSA/tree/master/0096-unique-binary-search-trees) |
