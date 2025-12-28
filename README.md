@@ -82,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Aniruth1011/DSA/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1710-maximum-units-on-a-truck](https://github.com/Aniruth1011/DSA/tree/master/1710-maximum-units-on-a-truck) |
 | [1834-single-threaded-cpu](https://github.com/Aniruth1011/DSA/tree/master/1834-single-threaded-cpu) |
+| [1899-merge-triplets-to-form-target-triplet](https://github.com/Aniruth1011/DSA/tree/master/1899-merge-triplets-to-form-target-triplet) |
 | [2099-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/Aniruth1011/DSA/tree/master/2099-find-subsequence-of-length-k-with-the-largest-sum) |
 | [2335-minimum-amount-of-time-to-fill-cups](https://github.com/Aniruth1011/DSA/tree/master/2335-minimum-amount-of-time-to-fill-cups) |
 | [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/Aniruth1011/DSA/tree/master/2357-make-array-zero-by-subtracting-equal-amounts) |
@@ -382,6 +383,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1405-longest-happy-string](https://github.com/Aniruth1011/DSA/tree/master/1405-longest-happy-string) |
 | [1710-maximum-units-on-a-truck](https://github.com/Aniruth1011/DSA/tree/master/1710-maximum-units-on-a-truck) |
 | [1736-latest-time-by-replacing-hidden-digits](https://github.com/Aniruth1011/DSA/tree/master/1736-latest-time-by-replacing-hidden-digits) |
+| [1899-merge-triplets-to-form-target-triplet](https://github.com/Aniruth1011/DSA/tree/master/1899-merge-triplets-to-form-target-triplet) |
 | [2335-minimum-amount-of-time-to-fill-cups](https://github.com/Aniruth1011/DSA/tree/master/2335-minimum-amount-of-time-to-fill-cups) |
 | [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/Aniruth1011/DSA/tree/master/2357-make-array-zero-by-subtracting-equal-amounts) |
 | [2591-distribute-money-to-maximum-children](https://github.com/Aniruth1011/DSA/tree/master/2591-distribute-money-to-maximum-children) |
