@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0649-dota2-senate](https://github.com/Aniruth1011/DSA/tree/master/0649-dota2-senate) |
 | [0680-valid-palindrome-ii](https://github.com/Aniruth1011/DSA/tree/master/0680-valid-palindrome-ii) |
 | [0767-reorganize-string](https://github.com/Aniruth1011/DSA/tree/master/0767-reorganize-string) |
+| [0784-letter-case-permutation](https://github.com/Aniruth1011/DSA/tree/master/0784-letter-case-permutation) |
 | [0942-di-string-match](https://github.com/Aniruth1011/DSA/tree/master/0942-di-string-match) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Aniruth1011/DSA/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1405-longest-happy-string](https://github.com/Aniruth1011/DSA/tree/master/1405-longest-happy-string) |
@@ -171,6 +172,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0090-subsets-ii](https://github.com/Aniruth1011/DSA/tree/master/0090-subsets-ii) |
 | [0187-repeated-dna-sequences](https://github.com/Aniruth1011/DSA/tree/master/0187-repeated-dna-sequences) |
 | [0287-find-the-duplicate-number](https://github.com/Aniruth1011/DSA/tree/master/0287-find-the-duplicate-number) |
+| [0784-letter-case-permutation](https://github.com/Aniruth1011/DSA/tree/master/0784-letter-case-permutation) |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/Aniruth1011/DSA/tree/master/1863-sum-of-all-subset-xor-totals) |
 ## Rolling Hash
 |  |
@@ -219,6 +221,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0140-word-break-ii](https://github.com/Aniruth1011/DSA/tree/master/0140-word-break-ii) |
 | [0216-combination-sum-iii](https://github.com/Aniruth1011/DSA/tree/master/0216-combination-sum-iii) |
 | [0257-binary-tree-paths](https://github.com/Aniruth1011/DSA/tree/master/0257-binary-tree-paths) |
+| [0784-letter-case-permutation](https://github.com/Aniruth1011/DSA/tree/master/0784-letter-case-permutation) |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/Aniruth1011/DSA/tree/master/1863-sum-of-all-subset-xor-totals) |
 ## Stack
 |  |
