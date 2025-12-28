@@ -14,6 +14,8 @@ class Solution:
             for i in range(start , len(candidates)):
                 if i > start and candidates[i] == candidates[i-1]:
                     continue 
+                if candidates[i] > target:
+                    break 
                 path.append(candidates[i])
                 backtrack(i +1, total+ candidates[i] , path)
                 path.pop()
