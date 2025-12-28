@@ -1,7 +1,7 @@
 class Solution:
     def combinationSum(self, candidates: List[int], target: int) -> List[List[int]]:
         results = []
-
+        candidates.sort()
         def backtrack(start , path , total):
             if total == target:
                 results.append(path[:])
