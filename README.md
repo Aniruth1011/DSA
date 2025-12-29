@@ -92,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0506-relative-ranks](https://github.com/Aniruth1011/DSA/tree/master/0506-relative-ranks) |
 | [0561-array-partition](https://github.com/Aniruth1011/DSA/tree/master/0561-array-partition) |
 | [0605-can-place-flowers](https://github.com/Aniruth1011/DSA/tree/master/0605-can-place-flowers) |
+| [0695-max-area-of-island](https://github.com/Aniruth1011/DSA/tree/master/0695-max-area-of-island) |
 | [0846-hand-of-straights](https://github.com/Aniruth1011/DSA/tree/master/0846-hand-of-straights) |
 | [0860-lemonade-change](https://github.com/Aniruth1011/DSA/tree/master/0860-lemonade-change) |
 | [0904-fruit-into-baskets](https://github.com/Aniruth1011/DSA/tree/master/0904-fruit-into-baskets) |
@@ -210,6 +211,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0200-number-of-islands](https://github.com/Aniruth1011/DSA/tree/master/0200-number-of-islands) |
 | [0427-construct-quad-tree](https://github.com/Aniruth1011/DSA/tree/master/0427-construct-quad-tree) |
 | [0463-island-perimeter](https://github.com/Aniruth1011/DSA/tree/master/0463-island-perimeter) |
+| [0695-max-area-of-island](https://github.com/Aniruth1011/DSA/tree/master/0695-max-area-of-island) |
 | [1337-the-k-weakest-rows-in-a-matrix](https://github.com/Aniruth1011/DSA/tree/master/1337-the-k-weakest-rows-in-a-matrix) |
 | [2500-delete-greatest-value-in-each-row](https://github.com/Aniruth1011/DSA/tree/master/2500-delete-greatest-value-in-each-row) |
 ## Backtracking
@@ -310,6 +312,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0463-island-perimeter](https://github.com/Aniruth1011/DSA/tree/master/0463-island-perimeter) |
 | [0508-most-frequent-subtree-sum](https://github.com/Aniruth1011/DSA/tree/master/0508-most-frequent-subtree-sum) |
 | [0543-diameter-of-binary-tree](https://github.com/Aniruth1011/DSA/tree/master/0543-diameter-of-binary-tree) |
+| [0695-max-area-of-island](https://github.com/Aniruth1011/DSA/tree/master/0695-max-area-of-island) |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/Aniruth1011/DSA/tree/master/1448-count-good-nodes-in-binary-tree) |
 ## Binary Tree
 |  |
@@ -365,6 +368,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0226-invert-binary-tree](https://github.com/Aniruth1011/DSA/tree/master/0226-invert-binary-tree) |
 | [0404-sum-of-left-leaves](https://github.com/Aniruth1011/DSA/tree/master/0404-sum-of-left-leaves) |
 | [0463-island-perimeter](https://github.com/Aniruth1011/DSA/tree/master/0463-island-perimeter) |
+| [0695-max-area-of-island](https://github.com/Aniruth1011/DSA/tree/master/0695-max-area-of-island) |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/Aniruth1011/DSA/tree/master/1448-count-good-nodes-in-binary-tree) |
 ## Divide and Conquer
 |  |
@@ -511,4 +515,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0200-number-of-islands](https://github.com/Aniruth1011/DSA/tree/master/0200-number-of-islands) |
+| [0695-max-area-of-island](https://github.com/Aniruth1011/DSA/tree/master/0695-max-area-of-island) |
 <!---LeetCode Topics End-->
