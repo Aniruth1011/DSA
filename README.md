@@ -79,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Aniruth1011/DSA/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0134-gas-station](https://github.com/Aniruth1011/DSA/tree/master/0134-gas-station) |
 | [0140-word-break-ii](https://github.com/Aniruth1011/DSA/tree/master/0140-word-break-ii) |
+| [0200-number-of-islands](https://github.com/Aniruth1011/DSA/tree/master/0200-number-of-islands) |
 | [0209-minimum-size-subarray-sum](https://github.com/Aniruth1011/DSA/tree/master/0209-minimum-size-subarray-sum) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Aniruth1011/DSA/tree/master/0215-kth-largest-element-in-an-array) |
 | [0216-combination-sum-iii](https://github.com/Aniruth1011/DSA/tree/master/0216-combination-sum-iii) |
@@ -206,6 +207,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0048-rotate-image](https://github.com/Aniruth1011/DSA/tree/master/0048-rotate-image) |
 | [0079-word-search](https://github.com/Aniruth1011/DSA/tree/master/0079-word-search) |
+| [0200-number-of-islands](https://github.com/Aniruth1011/DSA/tree/master/0200-number-of-islands) |
 | [0427-construct-quad-tree](https://github.com/Aniruth1011/DSA/tree/master/0427-construct-quad-tree) |
 | [0463-island-perimeter](https://github.com/Aniruth1011/DSA/tree/master/0463-island-perimeter) |
 | [1337-the-k-weakest-rows-in-a-matrix](https://github.com/Aniruth1011/DSA/tree/master/1337-the-k-weakest-rows-in-a-matrix) |
@@ -298,6 +300,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0144-binary-tree-preorder-traversal](https://github.com/Aniruth1011/DSA/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Aniruth1011/DSA/tree/master/0145-binary-tree-postorder-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/Aniruth1011/DSA/tree/master/0199-binary-tree-right-side-view) |
+| [0200-number-of-islands](https://github.com/Aniruth1011/DSA/tree/master/0200-number-of-islands) |
 | [0226-invert-binary-tree](https://github.com/Aniruth1011/DSA/tree/master/0226-invert-binary-tree) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/Aniruth1011/DSA/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Aniruth1011/DSA/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
@@ -358,6 +361,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0111-minimum-depth-of-binary-tree](https://github.com/Aniruth1011/DSA/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/Aniruth1011/DSA/tree/master/0112-path-sum) |
 | [0199-binary-tree-right-side-view](https://github.com/Aniruth1011/DSA/tree/master/0199-binary-tree-right-side-view) |
+| [0200-number-of-islands](https://github.com/Aniruth1011/DSA/tree/master/0200-number-of-islands) |
 | [0226-invert-binary-tree](https://github.com/Aniruth1011/DSA/tree/master/0226-invert-binary-tree) |
 | [0404-sum-of-left-leaves](https://github.com/Aniruth1011/DSA/tree/master/0404-sum-of-left-leaves) |
 | [0463-island-perimeter](https://github.com/Aniruth1011/DSA/tree/master/0463-island-perimeter) |
@@ -503,4 +507,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0997-find-the-town-judge](https://github.com/Aniruth1011/DSA/tree/master/0997-find-the-town-judge) |
+## Union Find
+|  |
+| ------- |
+| [0200-number-of-islands](https://github.com/Aniruth1011/DSA/tree/master/0200-number-of-islands) |
 <!---LeetCode Topics End-->
