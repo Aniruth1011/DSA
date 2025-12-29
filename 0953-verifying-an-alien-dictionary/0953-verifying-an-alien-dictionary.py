@@ -1,5 +1,7 @@
 class Solution:
     def isAlienSorted(self, words: List[str], order: str) -> bool:
+
+        dic = {c : i for i , c in enumerate(order)}
         for i in range(1 , len(words)):
             word1 , word2 = words[i-1] , words[i]
             if len(word1) == len(word2):
@@ -11,7 +13,7 @@ class Solution:
                         break 
                     j+=1 
                 print(j)
-                if order.index(word2[j]) - order.index(word1[j]) <0:
+                if dic[word2[j]] - dic[word1[j]] <0:
                     return False 
 
             elif len(word1) < len(word2):
@@ -23,7 +25,7 @@ class Solution:
                         break 
                     j+=1 
 
-                if order.index(word2[j]) - order.index(word1[j]) <0:
+                if dic[word2[j]] - dic[word1[j]] <0:
                     return False
             else:
                 if word2 == word1[:len(word2)]:
@@ -34,6 +36,6 @@ class Solution:
                         if word2[j]!=word1[j]:
                             break 
                         j+=1
-                    if order.index(word2[j]) - order.index(word1[j]) < 0:
+                    if dic[word2[j]] - dic[word1[j]] < 0:
                         return False 
         return True     
