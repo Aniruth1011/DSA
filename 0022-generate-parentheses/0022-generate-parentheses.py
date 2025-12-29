@@ -1,25 +1,22 @@
 class Solution:
     def generateParenthesis(self, n: int) -> List[str]:
 
-        results = []
-
-        def backtrack(combination , num_open , num_close ):
-
-            if len(combination)//2 == n:
-                results.append("".join(combination))
+        result = []
+        def backtrack(path , n_open , n_closed):
+            if (n_open + n_closed) == 2*n:
+                result.append("".join(path))
                 return 
-            if num_open < n:
-                combination.append("(")
-                backtrack(combination , num_open +1 , num_close )
-                combination.pop()
-            
-            if num_close < num_open:
-                combination.append(")")
-                backtrack(combination , num_open , num_close+1)
-                combination.pop()
 
-                    
+            if n_open < n:
+                path.append("(")
+                backtrack(path , n_open+1 , n_closed)
+                path.pop()
 
-        backtrack([] , 0 , 0 )
-        return results
+            if n_closed < n_open : 
+                path.append(")")
+                backtrack(path , n_open , n_closed + 1)
+                path.pop()
         
+        backtrack([] , 0 , 0)
+        return result 
+
