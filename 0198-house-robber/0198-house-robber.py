@@ -1,17 +1,7 @@
 class Solution:
     def rob(self, nums: List[int]) -> int:
-        n = len(nums)
-        if n == 0:
-            return 0
-        if n == 1:
-            return nums[0]
 
-        memo = [0 for i in range(n+1)]
-
-        memo[0] = nums[0]
-        memo[1] = max(nums[0] ,  nums[1])
-
-        for i in range(2 , n):
-            memo[i] = max(memo[i-1] , memo[i-2] + nums[i])
-        
-        return memo[n-1]
+        i_1 , i_2 = 0 , 0
+        for num in nums:
+            i_2, i_1 = i_1 , max(i_1 , i_2 + num)
+        return max(i_2 , i_1)
