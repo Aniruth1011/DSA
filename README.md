@@ -94,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0605-can-place-flowers](https://github.com/Aniruth1011/DSA/tree/master/0605-can-place-flowers) |
 | [0695-max-area-of-island](https://github.com/Aniruth1011/DSA/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/Aniruth1011/DSA/tree/master/0733-flood-fill) |
+| [0746-min-cost-climbing-stairs](https://github.com/Aniruth1011/DSA/tree/master/0746-min-cost-climbing-stairs) |
 | [0846-hand-of-straights](https://github.com/Aniruth1011/DSA/tree/master/0846-hand-of-straights) |
 | [0860-lemonade-change](https://github.com/Aniruth1011/DSA/tree/master/0860-lemonade-change) |
 | [0904-fruit-into-baskets](https://github.com/Aniruth1011/DSA/tree/master/0904-fruit-into-baskets) |
@@ -417,6 +418,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0096-unique-binary-search-trees](https://github.com/Aniruth1011/DSA/tree/master/0096-unique-binary-search-trees) |
 | [0131-palindrome-partitioning](https://github.com/Aniruth1011/DSA/tree/master/0131-palindrome-partitioning) |
 | [0140-word-break-ii](https://github.com/Aniruth1011/DSA/tree/master/0140-word-break-ii) |
+| [0746-min-cost-climbing-stairs](https://github.com/Aniruth1011/DSA/tree/master/0746-min-cost-climbing-stairs) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
