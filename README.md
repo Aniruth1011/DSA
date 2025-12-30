@@ -204,6 +204,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0096-unique-binary-search-trees](https://github.com/Aniruth1011/DSA/tree/master/0096-unique-binary-search-trees) |
 | [0973-k-closest-points-to-origin](https://github.com/Aniruth1011/DSA/tree/master/0973-k-closest-points-to-origin) |
 | [0976-largest-perimeter-triangle](https://github.com/Aniruth1011/DSA/tree/master/0976-largest-perimeter-triangle) |
+| [1137-n-th-tribonacci-number](https://github.com/Aniruth1011/DSA/tree/master/1137-n-th-tribonacci-number) |
 | [1323-maximum-69-number](https://github.com/Aniruth1011/DSA/tree/master/1323-maximum-69-number) |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/Aniruth1011/DSA/tree/master/1863-sum-of-all-subset-xor-totals) |
 | [2591-distribute-money-to-maximum-children](https://github.com/Aniruth1011/DSA/tree/master/2591-distribute-money-to-maximum-children) |
@@ -421,6 +422,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0131-palindrome-partitioning](https://github.com/Aniruth1011/DSA/tree/master/0131-palindrome-partitioning) |
 | [0140-word-break-ii](https://github.com/Aniruth1011/DSA/tree/master/0140-word-break-ii) |
 | [0746-min-cost-climbing-stairs](https://github.com/Aniruth1011/DSA/tree/master/0746-min-cost-climbing-stairs) |
+| [1137-n-th-tribonacci-number](https://github.com/Aniruth1011/DSA/tree/master/1137-n-th-tribonacci-number) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -521,6 +523,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0070-climbing-stairs](https://github.com/Aniruth1011/DSA/tree/master/0070-climbing-stairs) |
 | [0140-word-break-ii](https://github.com/Aniruth1011/DSA/tree/master/0140-word-break-ii) |
+| [1137-n-th-tribonacci-number](https://github.com/Aniruth1011/DSA/tree/master/1137-n-th-tribonacci-number) |
 ## Graph
 |  |
 | ------- |
