@@ -100,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0953-verifying-an-alien-dictionary](https://github.com/Aniruth1011/DSA/tree/master/0953-verifying-an-alien-dictionary) |
 | [0973-k-closest-points-to-origin](https://github.com/Aniruth1011/DSA/tree/master/0973-k-closest-points-to-origin) |
 | [0976-largest-perimeter-triangle](https://github.com/Aniruth1011/DSA/tree/master/0976-largest-perimeter-triangle) |
+| [0994-rotting-oranges](https://github.com/Aniruth1011/DSA/tree/master/0994-rotting-oranges) |
 | [0997-find-the-town-judge](https://github.com/Aniruth1011/DSA/tree/master/0997-find-the-town-judge) |
 | [1004-max-consecutive-ones-iii](https://github.com/Aniruth1011/DSA/tree/master/1004-max-consecutive-ones-iii) |
 | [1005-maximize-sum-of-array-after-k-negations](https://github.com/Aniruth1011/DSA/tree/master/1005-maximize-sum-of-array-after-k-negations) |
@@ -212,6 +213,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0427-construct-quad-tree](https://github.com/Aniruth1011/DSA/tree/master/0427-construct-quad-tree) |
 | [0463-island-perimeter](https://github.com/Aniruth1011/DSA/tree/master/0463-island-perimeter) |
 | [0695-max-area-of-island](https://github.com/Aniruth1011/DSA/tree/master/0695-max-area-of-island) |
+| [0994-rotting-oranges](https://github.com/Aniruth1011/DSA/tree/master/0994-rotting-oranges) |
 | [1337-the-k-weakest-rows-in-a-matrix](https://github.com/Aniruth1011/DSA/tree/master/1337-the-k-weakest-rows-in-a-matrix) |
 | [2500-delete-greatest-value-in-each-row](https://github.com/Aniruth1011/DSA/tree/master/2500-delete-greatest-value-in-each-row) |
 ## Backtracking
@@ -369,6 +371,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0404-sum-of-left-leaves](https://github.com/Aniruth1011/DSA/tree/master/0404-sum-of-left-leaves) |
 | [0463-island-perimeter](https://github.com/Aniruth1011/DSA/tree/master/0463-island-perimeter) |
 | [0695-max-area-of-island](https://github.com/Aniruth1011/DSA/tree/master/0695-max-area-of-island) |
+| [0994-rotting-oranges](https://github.com/Aniruth1011/DSA/tree/master/0994-rotting-oranges) |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/Aniruth1011/DSA/tree/master/1448-count-good-nodes-in-binary-tree) |
 ## Divide and Conquer
 |  |
