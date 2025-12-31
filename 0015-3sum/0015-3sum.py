@@ -3,8 +3,6 @@ class Solution:
         triplets = []
         nums = sorted(nums)
         n = len(nums)
-        if nums[0]>0:
-            return []
         for i in range(n):
             num = nums[i]
             if i > 0 and (nums[i] == nums[i-1]):
