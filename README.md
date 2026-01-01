@@ -151,6 +151,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/Aniruth1011/DSA/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/Aniruth1011/DSA/tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/Aniruth1011/DSA/tree/master/0018-4sum) |
+| [0019-remove-nth-node-from-end-of-list](https://github.com/Aniruth1011/DSA/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0031-next-permutation](https://github.com/Aniruth1011/DSA/tree/master/0031-next-permutation) |
 | [0075-sort-colors](https://github.com/Aniruth1011/DSA/tree/master/0075-sort-colors) |
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/Aniruth1011/DSA/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
@@ -416,6 +417,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Linked List
 |  |
 | ------- |
+| [0019-remove-nth-node-from-end-of-list](https://github.com/Aniruth1011/DSA/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/Aniruth1011/DSA/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/Aniruth1011/DSA/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/Aniruth1011/DSA/tree/master/0114-flatten-binary-tree-to-linked-list) |
