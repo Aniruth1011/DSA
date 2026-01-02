@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Aniruth1011/DSA/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0005-longest-palindromic-substring](https://github.com/Aniruth1011/DSA/tree/master/0005-longest-palindromic-substring) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Aniruth1011/DSA/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0022-generate-parentheses](https://github.com/Aniruth1011/DSA/tree/master/0022-generate-parentheses) |
 | [0079-word-search](https://github.com/Aniruth1011/DSA/tree/master/0079-word-search) |
@@ -148,6 +149,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/Aniruth1011/DSA/tree/master/0005-longest-palindromic-substring) |
 | [0015-3sum](https://github.com/Aniruth1011/DSA/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/Aniruth1011/DSA/tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/Aniruth1011/DSA/tree/master/0018-4sum) |
@@ -425,6 +427,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/Aniruth1011/DSA/tree/master/0005-longest-palindromic-substring) |
 | [0022-generate-parentheses](https://github.com/Aniruth1011/DSA/tree/master/0022-generate-parentheses) |
 | [0055-jump-game](https://github.com/Aniruth1011/DSA/tree/master/0055-jump-game) |
 | [0062-unique-paths](https://github.com/Aniruth1011/DSA/tree/master/0062-unique-paths) |
