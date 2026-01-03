@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0187-repeated-dna-sequences](https://github.com/Aniruth1011/DSA/tree/master/0187-repeated-dna-sequences) |
 | [0257-binary-tree-paths](https://github.com/Aniruth1011/DSA/tree/master/0257-binary-tree-paths) |
 | [0409-longest-palindrome](https://github.com/Aniruth1011/DSA/tree/master/0409-longest-palindrome) |
+| [0443-string-compression](https://github.com/Aniruth1011/DSA/tree/master/0443-string-compression) |
 | [0649-dota2-senate](https://github.com/Aniruth1011/DSA/tree/master/0649-dota2-senate) |
 | [0680-valid-palindrome-ii](https://github.com/Aniruth1011/DSA/tree/master/0680-valid-palindrome-ii) |
 | [0767-reorganize-string](https://github.com/Aniruth1011/DSA/tree/master/0767-reorganize-string) |
@@ -172,6 +173,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/Aniruth1011/DSA/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
 | [0287-find-the-duplicate-number](https://github.com/Aniruth1011/DSA/tree/master/0287-find-the-duplicate-number) |
 | [0349-intersection-of-two-arrays](https://github.com/Aniruth1011/DSA/tree/master/0349-intersection-of-two-arrays) |
+| [0443-string-compression](https://github.com/Aniruth1011/DSA/tree/master/0443-string-compression) |
 | [0455-assign-cookies](https://github.com/Aniruth1011/DSA/tree/master/0455-assign-cookies) |
 | [0680-valid-palindrome-ii](https://github.com/Aniruth1011/DSA/tree/master/0680-valid-palindrome-ii) |
 | [0942-di-string-match](https://github.com/Aniruth1011/DSA/tree/master/0942-di-string-match) |
