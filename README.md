@@ -134,6 +134,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2706-buy-two-chocolates](https://github.com/Aniruth1011/DSA/tree/master/2706-buy-two-chocolates) |
 | [2974-minimum-number-game](https://github.com/Aniruth1011/DSA/tree/master/2974-minimum-number-game) |
 | [3074-apple-redistribution-into-boxes](https://github.com/Aniruth1011/DSA/tree/master/3074-apple-redistribution-into-boxes) |
+| [3132-find-the-integer-added-to-array-ii](https://github.com/Aniruth1011/DSA/tree/master/3132-find-the-integer-added-to-array-ii) |
 | [3264-final-array-state-after-k-multiplication-operations-i](https://github.com/Aniruth1011/DSA/tree/master/3264-final-array-state-after-k-multiplication-operations-i) |
 ## Binary Search
 |  |
@@ -170,6 +171,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0455-assign-cookies](https://github.com/Aniruth1011/DSA/tree/master/0455-assign-cookies) |
 | [0680-valid-palindrome-ii](https://github.com/Aniruth1011/DSA/tree/master/0680-valid-palindrome-ii) |
 | [0942-di-string-match](https://github.com/Aniruth1011/DSA/tree/master/0942-di-string-match) |
+| [3132-find-the-integer-added-to-array-ii](https://github.com/Aniruth1011/DSA/tree/master/3132-find-the-integer-added-to-array-ii) |
 ## Sorting
 |  |
 | ------- |
@@ -200,6 +202,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2706-buy-two-chocolates](https://github.com/Aniruth1011/DSA/tree/master/2706-buy-two-chocolates) |
 | [2974-minimum-number-game](https://github.com/Aniruth1011/DSA/tree/master/2974-minimum-number-game) |
 | [3074-apple-redistribution-into-boxes](https://github.com/Aniruth1011/DSA/tree/master/3074-apple-redistribution-into-boxes) |
+| [3132-find-the-integer-added-to-array-ii](https://github.com/Aniruth1011/DSA/tree/master/3132-find-the-integer-added-to-array-ii) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -546,6 +549,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/Aniruth1011/DSA/tree/master/1863-sum-of-all-subset-xor-totals) |
+| [3132-find-the-integer-added-to-array-ii](https://github.com/Aniruth1011/DSA/tree/master/3132-find-the-integer-added-to-array-ii) |
 ## Trie
 |  |
 | ------- |
