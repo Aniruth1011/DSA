@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0093-restore-ip-addresses](https://github.com/Aniruth1011/DSA/tree/master/0093-restore-ip-addresses) |
 | [0131-palindrome-partitioning](https://github.com/Aniruth1011/DSA/tree/master/0131-palindrome-partitioning) |
 | [0140-word-break-ii](https://github.com/Aniruth1011/DSA/tree/master/0140-word-break-ii) |
+| [0151-reverse-words-in-a-string](https://github.com/Aniruth1011/DSA/tree/master/0151-reverse-words-in-a-string) |
 | [0187-repeated-dna-sequences](https://github.com/Aniruth1011/DSA/tree/master/0187-repeated-dna-sequences) |
 | [0257-binary-tree-paths](https://github.com/Aniruth1011/DSA/tree/master/0257-binary-tree-paths) |
 | [0409-longest-palindrome](https://github.com/Aniruth1011/DSA/tree/master/0409-longest-palindrome) |
@@ -172,6 +173,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/Aniruth1011/DSA/tree/master/0075-sort-colors) |
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/Aniruth1011/DSA/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
 | [0086-partition-list](https://github.com/Aniruth1011/DSA/tree/master/0086-partition-list) |
+| [0151-reverse-words-in-a-string](https://github.com/Aniruth1011/DSA/tree/master/0151-reverse-words-in-a-string) |
 | [0287-find-the-duplicate-number](https://github.com/Aniruth1011/DSA/tree/master/0287-find-the-duplicate-number) |
 | [0349-intersection-of-two-arrays](https://github.com/Aniruth1011/DSA/tree/master/0349-intersection-of-two-arrays) |
 | [0443-string-compression](https://github.com/Aniruth1011/DSA/tree/master/0443-string-compression) |
