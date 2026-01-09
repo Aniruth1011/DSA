@@ -116,6 +116,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0846-hand-of-straights](https://github.com/Aniruth1011/DSA/tree/master/0846-hand-of-straights) |
 | [0860-lemonade-change](https://github.com/Aniruth1011/DSA/tree/master/0860-lemonade-change) |
 | [0904-fruit-into-baskets](https://github.com/Aniruth1011/DSA/tree/master/0904-fruit-into-baskets) |
+| [0912-sort-an-array](https://github.com/Aniruth1011/DSA/tree/master/0912-sort-an-array) |
 | [0942-di-string-match](https://github.com/Aniruth1011/DSA/tree/master/0942-di-string-match) |
 | [0953-verifying-an-alien-dictionary](https://github.com/Aniruth1011/DSA/tree/master/0953-verifying-an-alien-dictionary) |
 | [0973-k-closest-points-to-origin](https://github.com/Aniruth1011/DSA/tree/master/0973-k-closest-points-to-origin) |
@@ -199,6 +200,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0561-array-partition](https://github.com/Aniruth1011/DSA/tree/master/0561-array-partition) |
 | [0767-reorganize-string](https://github.com/Aniruth1011/DSA/tree/master/0767-reorganize-string) |
 | [0846-hand-of-straights](https://github.com/Aniruth1011/DSA/tree/master/0846-hand-of-straights) |
+| [0912-sort-an-array](https://github.com/Aniruth1011/DSA/tree/master/0912-sort-an-array) |
 | [0973-k-closest-points-to-origin](https://github.com/Aniruth1011/DSA/tree/master/0973-k-closest-points-to-origin) |
 | [0976-largest-perimeter-triangle](https://github.com/Aniruth1011/DSA/tree/master/0976-largest-perimeter-triangle) |
 | [1005-maximize-sum-of-array-after-k-negations](https://github.com/Aniruth1011/DSA/tree/master/1005-maximize-sum-of-array-after-k-negations) |
@@ -429,6 +431,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/Aniruth1011/DSA/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Aniruth1011/DSA/tree/master/0215-kth-largest-element-in-an-array) |
 | [0427-construct-quad-tree](https://github.com/Aniruth1011/DSA/tree/master/0427-construct-quad-tree) |
+| [0912-sort-an-array](https://github.com/Aniruth1011/DSA/tree/master/0912-sort-an-array) |
 | [0973-k-closest-points-to-origin](https://github.com/Aniruth1011/DSA/tree/master/0973-k-closest-points-to-origin) |
 ## Binary Search Tree
 |  |
@@ -477,6 +480,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0355-design-twitter](https://github.com/Aniruth1011/DSA/tree/master/0355-design-twitter) |
 | [0506-relative-ranks](https://github.com/Aniruth1011/DSA/tree/master/0506-relative-ranks) |
 | [0767-reorganize-string](https://github.com/Aniruth1011/DSA/tree/master/0767-reorganize-string) |
+| [0912-sort-an-array](https://github.com/Aniruth1011/DSA/tree/master/0912-sort-an-array) |
 | [0973-k-closest-points-to-origin](https://github.com/Aniruth1011/DSA/tree/master/0973-k-closest-points-to-origin) |
 | [1094-car-pooling](https://github.com/Aniruth1011/DSA/tree/master/1094-car-pooling) |
 | [1337-the-k-weakest-rows-in-a-matrix](https://github.com/Aniruth1011/DSA/tree/master/1337-the-k-weakest-rows-in-a-matrix) |
@@ -551,6 +555,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0561-array-partition](https://github.com/Aniruth1011/DSA/tree/master/0561-array-partition) |
+| [0912-sort-an-array](https://github.com/Aniruth1011/DSA/tree/master/0912-sort-an-array) |
 ## Queue
 |  |
 | ------- |
@@ -584,4 +589,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0200-number-of-islands](https://github.com/Aniruth1011/DSA/tree/master/0200-number-of-islands) |
 | [0695-max-area-of-island](https://github.com/Aniruth1011/DSA/tree/master/0695-max-area-of-island) |
+## Merge Sort
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/Aniruth1011/DSA/tree/master/0912-sort-an-array) |
+## Bucket Sort
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/Aniruth1011/DSA/tree/master/0912-sort-an-array) |
+## Radix Sort
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/Aniruth1011/DSA/tree/master/0912-sort-an-array) |
 <!---LeetCode Topics End-->
