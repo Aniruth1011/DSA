@@ -53,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Aniruth1011/DSA/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1405-longest-happy-string](https://github.com/Aniruth1011/DSA/tree/master/1405-longest-happy-string) |
 | [1736-latest-time-by-replacing-hidden-digits](https://github.com/Aniruth1011/DSA/tree/master/1736-latest-time-by-replacing-hidden-digits) |
+| [3110-score-of-a-string](https://github.com/Aniruth1011/DSA/tree/master/3110-score-of-a-string) |
 ## Sliding Window
 |  |
 | ------- |
