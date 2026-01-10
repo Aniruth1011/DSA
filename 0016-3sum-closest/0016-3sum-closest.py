@@ -5,6 +5,8 @@ class Solution:
         best_sum = nums[0] + nums[1] + nums[2]
         most_closest = abs(best_sum - target)
         for idx in range(n-2):
+            if idx > 0 and nums[idx] == nums[idx - 1]:
+                continue
             num1 = nums[idx]
             left = idx+1
             right = n-1
