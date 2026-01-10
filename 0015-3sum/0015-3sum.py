@@ -6,6 +6,8 @@ class Solution:
         for idx , num1 in enumerate(nums):
             if idx > 0 and nums[idx] == nums[idx - 1]:
                 continue
+            if num1>0:
+                break 
             target = -num1 
             left = idx+1
             right = n-1 
