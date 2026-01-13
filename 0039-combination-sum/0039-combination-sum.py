@@ -3,13 +3,13 @@ class Solution:
 
         results = []
         def backtrack(path , sum_of_num , start):
-            if sum_of_num > target:
-                return 
             if sum_of_num == target:
                 results.append(path[:])
                 return 
             
             for i in range(start , len(candidates)):
+                if (sum_of_num + candidates[i]) > target:
+                    continue
                 path.append(candidates[i])
                 backtrack(path , sum_of_num + candidates[i] , i)
                 path.pop()
