@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0073-set-matrix-zeroes](https://github.com/Aniruth1011/DSA/tree/master/0073-set-matrix-zeroes) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Aniruth1011/DSA/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/Aniruth1011/DSA/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
+| [0128-longest-consecutive-sequence](https://github.com/Aniruth1011/DSA/tree/master/0128-longest-consecutive-sequence) |
 | [0140-word-break-ii](https://github.com/Aniruth1011/DSA/tree/master/0140-word-break-ii) |
 | [0187-repeated-dna-sequences](https://github.com/Aniruth1011/DSA/tree/master/0187-repeated-dna-sequences) |
 | [0219-contains-duplicate-ii](https://github.com/Aniruth1011/DSA/tree/master/0219-contains-duplicate-ii) |
@@ -99,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Aniruth1011/DSA/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0118-pascals-triangle](https://github.com/Aniruth1011/DSA/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Aniruth1011/DSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0128-longest-consecutive-sequence](https://github.com/Aniruth1011/DSA/tree/master/0128-longest-consecutive-sequence) |
 | [0134-gas-station](https://github.com/Aniruth1011/DSA/tree/master/0134-gas-station) |
 | [0140-word-break-ii](https://github.com/Aniruth1011/DSA/tree/master/0140-word-break-ii) |
 | [0179-largest-number](https://github.com/Aniruth1011/DSA/tree/master/0179-largest-number) |
@@ -619,4 +621,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0912-sort-an-array](https://github.com/Aniruth1011/DSA/tree/master/0912-sort-an-array) |
+## Union-Find
+|  |
+| ------- |
+| [0128-longest-consecutive-sequence](https://github.com/Aniruth1011/DSA/tree/master/0128-longest-consecutive-sequence) |
 <!---LeetCode Topics End-->
