@@ -88,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/Aniruth1011/DSA/tree/master/0049-group-anagrams) |
 | [0051-n-queens](https://github.com/Aniruth1011/DSA/tree/master/0051-n-queens) |
 | [0055-jump-game](https://github.com/Aniruth1011/DSA/tree/master/0055-jump-game) |
+| [0056-merge-intervals](https://github.com/Aniruth1011/DSA/tree/master/0056-merge-intervals) |
 | [0075-sort-colors](https://github.com/Aniruth1011/DSA/tree/master/0075-sort-colors) |
 | [0079-word-search](https://github.com/Aniruth1011/DSA/tree/master/0079-word-search) |
 | [0090-subsets-ii](https://github.com/Aniruth1011/DSA/tree/master/0090-subsets-ii) |
@@ -201,6 +202,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0018-4sum](https://github.com/Aniruth1011/DSA/tree/master/0018-4sum) |
 | [0047-permutations-ii](https://github.com/Aniruth1011/DSA/tree/master/0047-permutations-ii) |
 | [0049-group-anagrams](https://github.com/Aniruth1011/DSA/tree/master/0049-group-anagrams) |
+| [0056-merge-intervals](https://github.com/Aniruth1011/DSA/tree/master/0056-merge-intervals) |
 | [0075-sort-colors](https://github.com/Aniruth1011/DSA/tree/master/0075-sort-colors) |
 | [0179-largest-number](https://github.com/Aniruth1011/DSA/tree/master/0179-largest-number) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Aniruth1011/DSA/tree/master/0215-kth-largest-element-in-an-array) |
