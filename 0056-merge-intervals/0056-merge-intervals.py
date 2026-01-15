@@ -9,10 +9,8 @@ class Solution:
         i = 1
         while i < n:
             new_l , new_r = intervals[i][0] , intervals[i][1]
-            if l <= new_l <= new_r <= r:
-                pass                         
-            elif l <= new_l <= r <= new_r:
-                r = new_r                    
+            if new_l <=r:
+                r = max(r , new_r)
             else:
                 results.append([l, r])     
                 l, r = new_l, new_r
