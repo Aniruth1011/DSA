@@ -7,12 +7,10 @@ class Solution:
         min_len = float('inf')
         while r < n:
             s+= nums[r]
-            if s >=target:
+            while s >=target:
                 min_len = min(min_len , r - l + 1)
-                while (s>=target) and (l <= r):
-                    min_len = min(min_len , r - l + 1)
-                    s-=nums[l]
-                    l+=1 
+                s-=nums[l]
+                l+=1 
             r+=1 
         
         if min_len == float('inf'):
