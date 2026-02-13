@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/Aniruth1011/DSA/tree/master/0349-intersection-of-two-arrays) |
 | [0355-design-twitter](https://github.com/Aniruth1011/DSA/tree/master/0355-design-twitter) |
 | [0409-longest-palindrome](https://github.com/Aniruth1011/DSA/tree/master/0409-longest-palindrome) |
+| [0496-next-greater-element-i](https://github.com/Aniruth1011/DSA/tree/master/0496-next-greater-element-i) |
 | [0508-most-frequent-subtree-sum](https://github.com/Aniruth1011/DSA/tree/master/0508-most-frequent-subtree-sum) |
 | [0523-continuous-subarray-sum](https://github.com/Aniruth1011/DSA/tree/master/0523-continuous-subarray-sum) |
 | [0525-contiguous-array](https://github.com/Aniruth1011/DSA/tree/master/0525-contiguous-array) |
@@ -117,6 +118,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0427-construct-quad-tree](https://github.com/Aniruth1011/DSA/tree/master/0427-construct-quad-tree) |
 | [0455-assign-cookies](https://github.com/Aniruth1011/DSA/tree/master/0455-assign-cookies) |
 | [0463-island-perimeter](https://github.com/Aniruth1011/DSA/tree/master/0463-island-perimeter) |
+| [0496-next-greater-element-i](https://github.com/Aniruth1011/DSA/tree/master/0496-next-greater-element-i) |
 | [0506-relative-ranks](https://github.com/Aniruth1011/DSA/tree/master/0506-relative-ranks) |
 | [0523-continuous-subarray-sum](https://github.com/Aniruth1011/DSA/tree/master/0523-continuous-subarray-sum) |
 | [0525-contiguous-array](https://github.com/Aniruth1011/DSA/tree/master/0525-contiguous-array) |
@@ -315,6 +317,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/Aniruth1011/DSA/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Aniruth1011/DSA/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Aniruth1011/DSA/tree/master/0145-binary-tree-postorder-traversal) |
+| [0496-next-greater-element-i](https://github.com/Aniruth1011/DSA/tree/master/0496-next-greater-element-i) |
 ## Tree
 |  |
 | ------- |
@@ -629,4 +632,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/Aniruth1011/DSA/tree/master/0128-longest-consecutive-sequence) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0496-next-greater-element-i](https://github.com/Aniruth1011/DSA/tree/master/0496-next-greater-element-i) |
 <!---LeetCode Topics End-->
