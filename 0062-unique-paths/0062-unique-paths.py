@@ -3,17 +3,6 @@ class Solution:
         if m==1 and n==1:
             return 1
         dp = [[0 for i in range(n)] for j in range(m)]
-        def dp_fun(x,y):
-            if x==0 and y==0:
-                return 0 
-            elif x==0 and y==1:
-                return 1
-            elif x==1 and y==0:
-                return 1 
-            else:
-                dp[x][y] = dp_fun(x-1,y) + dp_fun(x,y+1) + 2 
-                return dp[x][y]
-        
         #return dp_fun(m-1 , n-1)
         for x in range(m):
             for y in range(n):
