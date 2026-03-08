@@ -21,7 +21,4 @@ class Solution:
                         dp[x][y] = dp[x][y-1] + dp[x-1][y] 
                 # print(x,y,dp[x][y])    
 
-        for i in range(m):
-            print(dp[i])
-
         return dp[m-1][n-1]
