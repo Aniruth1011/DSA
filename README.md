@@ -93,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0051-n-queens](https://github.com/Aniruth1011/DSA/tree/master/0051-n-queens) |
 | [0055-jump-game](https://github.com/Aniruth1011/DSA/tree/master/0055-jump-game) |
 | [0056-merge-intervals](https://github.com/Aniruth1011/DSA/tree/master/0056-merge-intervals) |
+| [0064-minimum-path-sum](https://github.com/Aniruth1011/DSA/tree/master/0064-minimum-path-sum) |
 | [0073-set-matrix-zeroes](https://github.com/Aniruth1011/DSA/tree/master/0073-set-matrix-zeroes) |
 | [0075-sort-colors](https://github.com/Aniruth1011/DSA/tree/master/0075-sort-colors) |
 | [0079-word-search](https://github.com/Aniruth1011/DSA/tree/master/0079-word-search) |
@@ -279,6 +280,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0036-valid-sudoku](https://github.com/Aniruth1011/DSA/tree/master/0036-valid-sudoku) |
 | [0048-rotate-image](https://github.com/Aniruth1011/DSA/tree/master/0048-rotate-image) |
+| [0064-minimum-path-sum](https://github.com/Aniruth1011/DSA/tree/master/0064-minimum-path-sum) |
 | [0073-set-matrix-zeroes](https://github.com/Aniruth1011/DSA/tree/master/0073-set-matrix-zeroes) |
 | [0079-word-search](https://github.com/Aniruth1011/DSA/tree/master/0079-word-search) |
 | [0200-number-of-islands](https://github.com/Aniruth1011/DSA/tree/master/0200-number-of-islands) |
@@ -491,6 +493,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0022-generate-parentheses](https://github.com/Aniruth1011/DSA/tree/master/0022-generate-parentheses) |
 | [0055-jump-game](https://github.com/Aniruth1011/DSA/tree/master/0055-jump-game) |
 | [0062-unique-paths](https://github.com/Aniruth1011/DSA/tree/master/0062-unique-paths) |
+| [0064-minimum-path-sum](https://github.com/Aniruth1011/DSA/tree/master/0064-minimum-path-sum) |
 | [0070-climbing-stairs](https://github.com/Aniruth1011/DSA/tree/master/0070-climbing-stairs) |
 | [0095-unique-binary-search-trees-ii](https://github.com/Aniruth1011/DSA/tree/master/0095-unique-binary-search-trees-ii) |
 | [0096-unique-binary-search-trees](https://github.com/Aniruth1011/DSA/tree/master/0096-unique-binary-search-trees) |
