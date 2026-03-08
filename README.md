@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0508-most-frequent-subtree-sum](https://github.com/Aniruth1011/DSA/tree/master/0508-most-frequent-subtree-sum) |
 | [0523-continuous-subarray-sum](https://github.com/Aniruth1011/DSA/tree/master/0523-continuous-subarray-sum) |
 | [0525-contiguous-array](https://github.com/Aniruth1011/DSA/tree/master/0525-contiguous-array) |
+| [0740-delete-and-earn](https://github.com/Aniruth1011/DSA/tree/master/0740-delete-and-earn) |
 | [0767-reorganize-string](https://github.com/Aniruth1011/DSA/tree/master/0767-reorganize-string) |
 | [0846-hand-of-straights](https://github.com/Aniruth1011/DSA/tree/master/0846-hand-of-straights) |
 | [0904-fruit-into-baskets](https://github.com/Aniruth1011/DSA/tree/master/0904-fruit-into-baskets) |
@@ -127,6 +128,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0695-max-area-of-island](https://github.com/Aniruth1011/DSA/tree/master/0695-max-area-of-island) |
 | [0724-find-pivot-index](https://github.com/Aniruth1011/DSA/tree/master/0724-find-pivot-index) |
 | [0733-flood-fill](https://github.com/Aniruth1011/DSA/tree/master/0733-flood-fill) |
+| [0740-delete-and-earn](https://github.com/Aniruth1011/DSA/tree/master/0740-delete-and-earn) |
 | [0746-min-cost-climbing-stairs](https://github.com/Aniruth1011/DSA/tree/master/0746-min-cost-climbing-stairs) |
 | [0846-hand-of-straights](https://github.com/Aniruth1011/DSA/tree/master/0846-hand-of-straights) |
 | [0860-lemonade-change](https://github.com/Aniruth1011/DSA/tree/master/0860-lemonade-change) |
@@ -498,6 +500,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0140-word-break-ii](https://github.com/Aniruth1011/DSA/tree/master/0140-word-break-ii) |
 | [0198-house-robber](https://github.com/Aniruth1011/DSA/tree/master/0198-house-robber) |
 | [0509-fibonacci-number](https://github.com/Aniruth1011/DSA/tree/master/0509-fibonacci-number) |
+| [0740-delete-and-earn](https://github.com/Aniruth1011/DSA/tree/master/0740-delete-and-earn) |
 | [0746-min-cost-climbing-stairs](https://github.com/Aniruth1011/DSA/tree/master/0746-min-cost-climbing-stairs) |
 | [1137-n-th-tribonacci-number](https://github.com/Aniruth1011/DSA/tree/master/1137-n-th-tribonacci-number) |
 ## Heap (Priority Queue)
