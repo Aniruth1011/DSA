@@ -115,6 +115,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0215-kth-largest-element-in-an-array](https://github.com/Aniruth1011/DSA/tree/master/0215-kth-largest-element-in-an-array) |
 | [0216-combination-sum-iii](https://github.com/Aniruth1011/DSA/tree/master/0216-combination-sum-iii) |
 | [0219-contains-duplicate-ii](https://github.com/Aniruth1011/DSA/tree/master/0219-contains-duplicate-ii) |
+| [0221-maximal-square](https://github.com/Aniruth1011/DSA/tree/master/0221-maximal-square) |
 | [0238-product-of-array-except-self](https://github.com/Aniruth1011/DSA/tree/master/0238-product-of-array-except-self) |
 | [0287-find-the-duplicate-number](https://github.com/Aniruth1011/DSA/tree/master/0287-find-the-duplicate-number) |
 | [0304-range-sum-query-2d-immutable](https://github.com/Aniruth1011/DSA/tree/master/0304-range-sum-query-2d-immutable) |
@@ -288,6 +289,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0073-set-matrix-zeroes](https://github.com/Aniruth1011/DSA/tree/master/0073-set-matrix-zeroes) |
 | [0079-word-search](https://github.com/Aniruth1011/DSA/tree/master/0079-word-search) |
 | [0200-number-of-islands](https://github.com/Aniruth1011/DSA/tree/master/0200-number-of-islands) |
+| [0221-maximal-square](https://github.com/Aniruth1011/DSA/tree/master/0221-maximal-square) |
 | [0304-range-sum-query-2d-immutable](https://github.com/Aniruth1011/DSA/tree/master/0304-range-sum-query-2d-immutable) |
 | [0427-construct-quad-tree](https://github.com/Aniruth1011/DSA/tree/master/0427-construct-quad-tree) |
 | [0463-island-perimeter](https://github.com/Aniruth1011/DSA/tree/master/0463-island-perimeter) |
@@ -509,6 +511,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0131-palindrome-partitioning](https://github.com/Aniruth1011/DSA/tree/master/0131-palindrome-partitioning) |
 | [0140-word-break-ii](https://github.com/Aniruth1011/DSA/tree/master/0140-word-break-ii) |
 | [0198-house-robber](https://github.com/Aniruth1011/DSA/tree/master/0198-house-robber) |
+| [0221-maximal-square](https://github.com/Aniruth1011/DSA/tree/master/0221-maximal-square) |
 | [0509-fibonacci-number](https://github.com/Aniruth1011/DSA/tree/master/0509-fibonacci-number) |
 | [0740-delete-and-earn](https://github.com/Aniruth1011/DSA/tree/master/0740-delete-and-earn) |
 | [0746-min-cost-climbing-stairs](https://github.com/Aniruth1011/DSA/tree/master/0746-min-cost-climbing-stairs) |
