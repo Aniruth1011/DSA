@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Aniruth1011/DSA/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/Aniruth1011/DSA/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0128-longest-consecutive-sequence](https://github.com/Aniruth1011/DSA/tree/master/0128-longest-consecutive-sequence) |
+| [0139-word-break](https://github.com/Aniruth1011/DSA/tree/master/0139-word-break) |
 | [0140-word-break-ii](https://github.com/Aniruth1011/DSA/tree/master/0140-word-break-ii) |
 | [0187-repeated-dna-sequences](https://github.com/Aniruth1011/DSA/tree/master/0187-repeated-dna-sequences) |
 | [0219-contains-duplicate-ii](https://github.com/Aniruth1011/DSA/tree/master/0219-contains-duplicate-ii) |
@@ -44,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0079-word-search](https://github.com/Aniruth1011/DSA/tree/master/0079-word-search) |
 | [0093-restore-ip-addresses](https://github.com/Aniruth1011/DSA/tree/master/0093-restore-ip-addresses) |
 | [0131-palindrome-partitioning](https://github.com/Aniruth1011/DSA/tree/master/0131-palindrome-partitioning) |
+| [0139-word-break](https://github.com/Aniruth1011/DSA/tree/master/0139-word-break) |
 | [0140-word-break-ii](https://github.com/Aniruth1011/DSA/tree/master/0140-word-break-ii) |
 | [0151-reverse-words-in-a-string](https://github.com/Aniruth1011/DSA/tree/master/0151-reverse-words-in-a-string) |
 | [0179-largest-number](https://github.com/Aniruth1011/DSA/tree/master/0179-largest-number) |
@@ -107,6 +109,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Aniruth1011/DSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0128-longest-consecutive-sequence](https://github.com/Aniruth1011/DSA/tree/master/0128-longest-consecutive-sequence) |
 | [0134-gas-station](https://github.com/Aniruth1011/DSA/tree/master/0134-gas-station) |
+| [0139-word-break](https://github.com/Aniruth1011/DSA/tree/master/0139-word-break) |
 | [0140-word-break-ii](https://github.com/Aniruth1011/DSA/tree/master/0140-word-break-ii) |
 | [0179-largest-number](https://github.com/Aniruth1011/DSA/tree/master/0179-largest-number) |
 | [0198-house-robber](https://github.com/Aniruth1011/DSA/tree/master/0198-house-robber) |
@@ -509,6 +512,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0120-triangle](https://github.com/Aniruth1011/DSA/tree/master/0120-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Aniruth1011/DSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0131-palindrome-partitioning](https://github.com/Aniruth1011/DSA/tree/master/0131-palindrome-partitioning) |
+| [0139-word-break](https://github.com/Aniruth1011/DSA/tree/master/0139-word-break) |
 | [0140-word-break-ii](https://github.com/Aniruth1011/DSA/tree/master/0140-word-break-ii) |
 | [0198-house-robber](https://github.com/Aniruth1011/DSA/tree/master/0198-house-robber) |
 | [0221-maximal-square](https://github.com/Aniruth1011/DSA/tree/master/0221-maximal-square) |
@@ -619,11 +623,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Trie
 |  |
 | ------- |
+| [0139-word-break](https://github.com/Aniruth1011/DSA/tree/master/0139-word-break) |
 | [0140-word-break-ii](https://github.com/Aniruth1011/DSA/tree/master/0140-word-break-ii) |
 ## Memoization
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/Aniruth1011/DSA/tree/master/0070-climbing-stairs) |
+| [0139-word-break](https://github.com/Aniruth1011/DSA/tree/master/0139-word-break) |
 | [0140-word-break-ii](https://github.com/Aniruth1011/DSA/tree/master/0140-word-break-ii) |
 | [0509-fibonacci-number](https://github.com/Aniruth1011/DSA/tree/master/0509-fibonacci-number) |
 | [1137-n-th-tribonacci-number](https://github.com/Aniruth1011/DSA/tree/master/1137-n-th-tribonacci-number) |
