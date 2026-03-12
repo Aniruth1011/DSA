@@ -5,11 +5,6 @@ class Solution:
             return ""
         elif n==1:
             return s
-        elif n==2:
-            if s[0] == s[-1]:
-                return s 
-            else:
-                return s[0]
         dp = [[False for i in range(n)] for j in range(n)]
         for i in range(n):
             dp[i][i] = True 
