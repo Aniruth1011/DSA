@@ -64,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0784-letter-case-permutation](https://github.com/Aniruth1011/DSA/tree/master/0784-letter-case-permutation) |
 | [0942-di-string-match](https://github.com/Aniruth1011/DSA/tree/master/0942-di-string-match) |
 | [0953-verifying-an-alien-dictionary](https://github.com/Aniruth1011/DSA/tree/master/0953-verifying-an-alien-dictionary) |
+| [1143-longest-common-subsequence](https://github.com/Aniruth1011/DSA/tree/master/1143-longest-common-subsequence) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Aniruth1011/DSA/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1405-longest-happy-string](https://github.com/Aniruth1011/DSA/tree/master/1405-longest-happy-string) |
 | [1736-latest-time-by-replacing-hidden-digits](https://github.com/Aniruth1011/DSA/tree/master/1736-latest-time-by-replacing-hidden-digits) |
@@ -539,6 +540,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0931-minimum-falling-path-sum](https://github.com/Aniruth1011/DSA/tree/master/0931-minimum-falling-path-sum) |
 | [1027-longest-arithmetic-subsequence](https://github.com/Aniruth1011/DSA/tree/master/1027-longest-arithmetic-subsequence) |
 | [1137-n-th-tribonacci-number](https://github.com/Aniruth1011/DSA/tree/master/1137-n-th-tribonacci-number) |
+| [1143-longest-common-subsequence](https://github.com/Aniruth1011/DSA/tree/master/1143-longest-common-subsequence) |
 | [1218-longest-arithmetic-subsequence-of-given-difference](https://github.com/Aniruth1011/DSA/tree/master/1218-longest-arithmetic-subsequence-of-given-difference) |
 ## Heap (Priority Queue)
 |  |
