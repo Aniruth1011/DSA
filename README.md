@@ -160,6 +160,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1005-maximize-sum-of-array-after-k-negations](https://github.com/Aniruth1011/DSA/tree/master/1005-maximize-sum-of-array-after-k-negations) |
 | [1013-partition-array-into-three-parts-with-equal-sum](https://github.com/Aniruth1011/DSA/tree/master/1013-partition-array-into-three-parts-with-equal-sum) |
 | [1027-longest-arithmetic-subsequence](https://github.com/Aniruth1011/DSA/tree/master/1027-longest-arithmetic-subsequence) |
+| [1035-uncrossed-lines](https://github.com/Aniruth1011/DSA/tree/master/1035-uncrossed-lines) |
 | [1094-car-pooling](https://github.com/Aniruth1011/DSA/tree/master/1094-car-pooling) |
 | [1218-longest-arithmetic-subsequence-of-given-difference](https://github.com/Aniruth1011/DSA/tree/master/1218-longest-arithmetic-subsequence-of-given-difference) |
 | [1337-the-k-weakest-rows-in-a-matrix](https://github.com/Aniruth1011/DSA/tree/master/1337-the-k-weakest-rows-in-a-matrix) |
@@ -539,6 +540,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0746-min-cost-climbing-stairs](https://github.com/Aniruth1011/DSA/tree/master/0746-min-cost-climbing-stairs) |
 | [0931-minimum-falling-path-sum](https://github.com/Aniruth1011/DSA/tree/master/0931-minimum-falling-path-sum) |
 | [1027-longest-arithmetic-subsequence](https://github.com/Aniruth1011/DSA/tree/master/1027-longest-arithmetic-subsequence) |
+| [1035-uncrossed-lines](https://github.com/Aniruth1011/DSA/tree/master/1035-uncrossed-lines) |
 | [1137-n-th-tribonacci-number](https://github.com/Aniruth1011/DSA/tree/master/1137-n-th-tribonacci-number) |
 | [1143-longest-common-subsequence](https://github.com/Aniruth1011/DSA/tree/master/1143-longest-common-subsequence) |
 | [1218-longest-arithmetic-subsequence-of-given-difference](https://github.com/Aniruth1011/DSA/tree/master/1218-longest-arithmetic-subsequence-of-given-difference) |
