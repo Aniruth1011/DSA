@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0904-fruit-into-baskets](https://github.com/Aniruth1011/DSA/tree/master/0904-fruit-into-baskets) |
 | [0953-verifying-an-alien-dictionary](https://github.com/Aniruth1011/DSA/tree/master/0953-verifying-an-alien-dictionary) |
 | [0997-find-the-town-judge](https://github.com/Aniruth1011/DSA/tree/master/0997-find-the-town-judge) |
+| [1218-longest-arithmetic-subsequence-of-given-difference](https://github.com/Aniruth1011/DSA/tree/master/1218-longest-arithmetic-subsequence-of-given-difference) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Aniruth1011/DSA/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [2099-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/Aniruth1011/DSA/tree/master/2099-find-subsequence-of-length-k-with-the-largest-sum) |
 | [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/Aniruth1011/DSA/tree/master/2357-make-array-zero-by-subtracting-equal-amounts) |
@@ -157,6 +158,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1005-maximize-sum-of-array-after-k-negations](https://github.com/Aniruth1011/DSA/tree/master/1005-maximize-sum-of-array-after-k-negations) |
 | [1013-partition-array-into-three-parts-with-equal-sum](https://github.com/Aniruth1011/DSA/tree/master/1013-partition-array-into-three-parts-with-equal-sum) |
 | [1094-car-pooling](https://github.com/Aniruth1011/DSA/tree/master/1094-car-pooling) |
+| [1218-longest-arithmetic-subsequence-of-given-difference](https://github.com/Aniruth1011/DSA/tree/master/1218-longest-arithmetic-subsequence-of-given-difference) |
 | [1337-the-k-weakest-rows-in-a-matrix](https://github.com/Aniruth1011/DSA/tree/master/1337-the-k-weakest-rows-in-a-matrix) |
 | [1413-minimum-value-to-get-positive-step-by-step-sum](https://github.com/Aniruth1011/DSA/tree/master/1413-minimum-value-to-get-positive-step-by-step-sum) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Aniruth1011/DSA/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
@@ -533,6 +535,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0746-min-cost-climbing-stairs](https://github.com/Aniruth1011/DSA/tree/master/0746-min-cost-climbing-stairs) |
 | [0931-minimum-falling-path-sum](https://github.com/Aniruth1011/DSA/tree/master/0931-minimum-falling-path-sum) |
 | [1137-n-th-tribonacci-number](https://github.com/Aniruth1011/DSA/tree/master/1137-n-th-tribonacci-number) |
+| [1218-longest-arithmetic-subsequence-of-given-difference](https://github.com/Aniruth1011/DSA/tree/master/1218-longest-arithmetic-subsequence-of-given-difference) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
