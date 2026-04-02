@@ -601,6 +601,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1094-car-pooling](https://github.com/Aniruth1011/DSA/tree/master/1094-car-pooling) |
+| [1603-design-parking-system](https://github.com/Aniruth1011/DSA/tree/master/1603-design-parking-system) |
 | [1929-concatenation-of-array](https://github.com/Aniruth1011/DSA/tree/master/1929-concatenation-of-array) |
 | [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/Aniruth1011/DSA/tree/master/2357-make-array-zero-by-subtracting-equal-amounts) |
 | [2500-delete-greatest-value-in-each-row](https://github.com/Aniruth1011/DSA/tree/master/2500-delete-greatest-value-in-each-row) |
@@ -621,10 +622,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0304-range-sum-query-2d-immutable](https://github.com/Aniruth1011/DSA/tree/master/0304-range-sum-query-2d-immutable) |
 | [0355-design-twitter](https://github.com/Aniruth1011/DSA/tree/master/0355-design-twitter) |
+| [1603-design-parking-system](https://github.com/Aniruth1011/DSA/tree/master/1603-design-parking-system) |
 ## Counting
 |  |
 | ------- |
 | [0767-reorganize-string](https://github.com/Aniruth1011/DSA/tree/master/0767-reorganize-string) |
+| [1603-design-parking-system](https://github.com/Aniruth1011/DSA/tree/master/1603-design-parking-system) |
 ## Counting Sort
 |  |
 | ------- |
