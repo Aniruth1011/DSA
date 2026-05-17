@@ -120,6 +120,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0139-word-break](https://github.com/Aniruth1011/DSA/tree/master/0139-word-break) |
 | [0140-word-break-ii](https://github.com/Aniruth1011/DSA/tree/master/0140-word-break-ii) |
 | [0179-largest-number](https://github.com/Aniruth1011/DSA/tree/master/0179-largest-number) |
+| [0189-rotate-array](https://github.com/Aniruth1011/DSA/tree/master/0189-rotate-array) |
 | [0198-house-robber](https://github.com/Aniruth1011/DSA/tree/master/0198-house-robber) |
 | [0200-number-of-islands](https://github.com/Aniruth1011/DSA/tree/master/0200-number-of-islands) |
 | [0209-minimum-size-subarray-sum](https://github.com/Aniruth1011/DSA/tree/master/0209-minimum-size-subarray-sum) |
@@ -224,6 +225,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/Aniruth1011/DSA/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
 | [0086-partition-list](https://github.com/Aniruth1011/DSA/tree/master/0086-partition-list) |
 | [0151-reverse-words-in-a-string](https://github.com/Aniruth1011/DSA/tree/master/0151-reverse-words-in-a-string) |
+| [0189-rotate-array](https://github.com/Aniruth1011/DSA/tree/master/0189-rotate-array) |
 | [0287-find-the-duplicate-number](https://github.com/Aniruth1011/DSA/tree/master/0287-find-the-duplicate-number) |
 | [0349-intersection-of-two-arrays](https://github.com/Aniruth1011/DSA/tree/master/0349-intersection-of-two-arrays) |
 | [0443-string-compression](https://github.com/Aniruth1011/DSA/tree/master/0443-string-compression) |
@@ -291,6 +293,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0062-unique-paths](https://github.com/Aniruth1011/DSA/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/Aniruth1011/DSA/tree/master/0070-climbing-stairs) |
 | [0096-unique-binary-search-trees](https://github.com/Aniruth1011/DSA/tree/master/0096-unique-binary-search-trees) |
+| [0189-rotate-array](https://github.com/Aniruth1011/DSA/tree/master/0189-rotate-array) |
 | [0509-fibonacci-number](https://github.com/Aniruth1011/DSA/tree/master/0509-fibonacci-number) |
 | [0523-continuous-subarray-sum](https://github.com/Aniruth1011/DSA/tree/master/0523-continuous-subarray-sum) |
 | [0973-k-closest-points-to-origin](https://github.com/Aniruth1011/DSA/tree/master/0973-k-closest-points-to-origin) |
