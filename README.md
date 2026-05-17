@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0508-most-frequent-subtree-sum](https://github.com/Aniruth1011/DSA/tree/master/0508-most-frequent-subtree-sum) |
 | [0523-continuous-subarray-sum](https://github.com/Aniruth1011/DSA/tree/master/0523-continuous-subarray-sum) |
 | [0525-contiguous-array](https://github.com/Aniruth1011/DSA/tree/master/0525-contiguous-array) |
+| [0560-subarray-sum-equals-k](https://github.com/Aniruth1011/DSA/tree/master/0560-subarray-sum-equals-k) |
 | [0740-delete-and-earn](https://github.com/Aniruth1011/DSA/tree/master/0740-delete-and-earn) |
 | [0767-reorganize-string](https://github.com/Aniruth1011/DSA/tree/master/0767-reorganize-string) |
 | [0846-hand-of-straights](https://github.com/Aniruth1011/DSA/tree/master/0846-hand-of-straights) |
@@ -143,6 +144,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0506-relative-ranks](https://github.com/Aniruth1011/DSA/tree/master/0506-relative-ranks) |
 | [0523-continuous-subarray-sum](https://github.com/Aniruth1011/DSA/tree/master/0523-continuous-subarray-sum) |
 | [0525-contiguous-array](https://github.com/Aniruth1011/DSA/tree/master/0525-contiguous-array) |
+| [0560-subarray-sum-equals-k](https://github.com/Aniruth1011/DSA/tree/master/0560-subarray-sum-equals-k) |
 | [0561-array-partition](https://github.com/Aniruth1011/DSA/tree/master/0561-array-partition) |
 | [0605-can-place-flowers](https://github.com/Aniruth1011/DSA/tree/master/0605-can-place-flowers) |
 | [0646-maximum-length-of-pair-chain](https://github.com/Aniruth1011/DSA/tree/master/0646-maximum-length-of-pair-chain) |
@@ -207,6 +209,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0304-range-sum-query-2d-immutable](https://github.com/Aniruth1011/DSA/tree/master/0304-range-sum-query-2d-immutable) |
 | [0523-continuous-subarray-sum](https://github.com/Aniruth1011/DSA/tree/master/0523-continuous-subarray-sum) |
 | [0525-contiguous-array](https://github.com/Aniruth1011/DSA/tree/master/0525-contiguous-array) |
+| [0560-subarray-sum-equals-k](https://github.com/Aniruth1011/DSA/tree/master/0560-subarray-sum-equals-k) |
 | [0724-find-pivot-index](https://github.com/Aniruth1011/DSA/tree/master/0724-find-pivot-index) |
 | [1004-max-consecutive-ones-iii](https://github.com/Aniruth1011/DSA/tree/master/1004-max-consecutive-ones-iii) |
 | [1094-car-pooling](https://github.com/Aniruth1011/DSA/tree/master/1094-car-pooling) |
