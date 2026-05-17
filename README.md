@@ -117,6 +117,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Aniruth1011/DSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0128-longest-consecutive-sequence](https://github.com/Aniruth1011/DSA/tree/master/0128-longest-consecutive-sequence) |
 | [0134-gas-station](https://github.com/Aniruth1011/DSA/tree/master/0134-gas-station) |
+| [0136-single-number](https://github.com/Aniruth1011/DSA/tree/master/0136-single-number) |
 | [0139-word-break](https://github.com/Aniruth1011/DSA/tree/master/0139-word-break) |
 | [0140-word-break-ii](https://github.com/Aniruth1011/DSA/tree/master/0140-word-break-ii) |
 | [0179-largest-number](https://github.com/Aniruth1011/DSA/tree/master/0179-largest-number) |
@@ -277,6 +278,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0090-subsets-ii](https://github.com/Aniruth1011/DSA/tree/master/0090-subsets-ii) |
+| [0136-single-number](https://github.com/Aniruth1011/DSA/tree/master/0136-single-number) |
 | [0187-repeated-dna-sequences](https://github.com/Aniruth1011/DSA/tree/master/0187-repeated-dna-sequences) |
 | [0287-find-the-duplicate-number](https://github.com/Aniruth1011/DSA/tree/master/0287-find-the-duplicate-number) |
 | [0784-letter-case-permutation](https://github.com/Aniruth1011/DSA/tree/master/0784-letter-case-permutation) |
